@@ -4,12 +4,9 @@
 
 ## 原子(Atom)
 
->Nucleus contain protons and neutrons protons have a positive charge equel in magnitude to the electron's ($ e^{-}$ 's) negative charge.
-Neutrons have the same mass as a protons but no charge.
-<!--
-原子核內包含質子和中子，質子具有正電荷，其大小與電子的負電荷相等 
-中子擁有和質子差不多的質量，但中子不帶電。
--->
+* 概論
+  Nucleus contain protons and neutrons protons have a positive charge equel in magnitude to the electron's ($ e^{-}$ 's) negative charge. Neutrons have the same mass as a protons but no charge.
+`原子核內包含質子和中子，質子具有正電荷，其大小與電子的負電荷相等。中子擁有和質子差不多的質量，但中子不帶電。`
 * 註釋
   | 單字 | 中文 |
   | --- | --- |
@@ -22,19 +19,18 @@ Neutrons have the same mass as a protons but no charge.
 * 質子電子中子的重量
   $ e^{-}={8.11\times 10^{-31}}_{(Kg)} $
   $ P^{+}={1.6726\times 10^{-27}}_{(Kg)} $
-  $ n ={1.6749\times 10^{-27}}_{(Kg)} $
+  $ n^{0}={1.6749\times 10^{-27}}_{(Kg)} $
 
 ---
 
 ## 分子(Molecules)
 
->When molecules formed the forces that hold atoms together is called chemical bond.
-By sharing $ e^{-} $s, these bond are called cavalent bonds.
+When molecules formed the forces that hold atoms together is called chemical bond. By sharing $ e^{-} $s, these bond are called cavalent bonds.
+`當分子`
 
 * Ex: $CO_2$ (Chemical formula)
   $$ O=C=O $$
-* Ex: $ H_2O $
-  ![水](Pictrue/Water-2D-labelled.png)
+* Ex: $ H_2O $<div align="center"> <img src=Pictrue/Water-2D-labelled.png width=25% /><div>
 
 * 註釋
   | 單字 | 中文 |
@@ -51,26 +47,58 @@ $$ Na\to Na^++e^- $$ $$ Cl+e^-\to Cl^- $$
 
 ---
 
-## 化合物的命名(Noming Simple compound)
+## 化合物的命名(Noming Simple compd)<!-- Compd是Compouds的國際縮寫 -->
 
 * Ionic compound
-  * $ NaCl $,$ KI $ _(type A)_
-   1. The cation is always named first, and the anion second.
 
-   2. A monatomic cation takes its name form the name of the element
-        >Ex: $ Na^+ $ is solium
-   3. A monatomic anion is named by taking the first part of the element name and adding "ide"
-        >Ex: $Cl^- $ is chloride
+  * $ NaCl $ and $ KI $ _(type A)_
+
+    1. The cation is always named first, and the anion second.
+        `陽離子永遠是第一個被命名的，再來是陰離子`
+
+    2. A ==monatomic== cation takes its name form the name of the element.<!-- Monatomic由 Mono+Atomic 組成，其中 mono 表"單一個"， atomic 表"原子的" -->
+    `單原子陽離子的命名與其元素名稱一致`
+        >Ex: $ Na^+ $ is sodium
+    3. A monatomic anion is named by taking the first part of the element name and adding "ide"
+    `單原子陰離子是由其元素名稱去掉字尾並添加-ide來命名`
+        >Ex: $Cl^- $ is Chloride. but $Cl$ is Chlorine
+
   * $ FeCl_2 $ and $ FeCl_3 $ _(type B)_
-    When the metal form only two ions.
-    <!-- 這邊沒寫完，待補充 -->
-    * The prefix, mono is never uaed for naming the first element.
-      >$N_2O$: Dinitrogen monoxide
-      $NO$: Nitrogen monoxide
-  * acid
-    1. If the anion does not contain oxygen, the acid is named with the prefix "hydro—" and suffix "—ic"
-        >Ex: $HF:hydroflucric$ acid
-    2. containing oxygen
-      Small number of oxygen is "—ous", large number of oxygen is "—ic".
-        >HNO_3: nitric acid
-        HNO_2: nitrous acid
+    When the metal form only two ions. The ion with the higher charge has a name ending in **-ic**, and the one with the lower charge has a name ending in **-ous**.
+    `當金屬只會形成兩種離子時，較高電荷的離子的名稱以-ic結尾，較低電荷的離子的名稱以-ous結尾。`
+      >$ FeCl_3 $: Ferric chloride ($ Fe^{3+} $)
+      >$ FeCl_2 $: Ferrous chloride ($ Fe^{2+} $)
+  * $ SO^{2-}_3 $ and $ SO^{2-}_4 $ (oxyanions)
+    Smaller number of oxygen atom: -ate
+  * $ N_2O $ and $ NO $ (contain two nonmetals、covalent bond)
+    1. The first element in formula is named using the full element name.
+      `第一個出現在化學式中的元素需要優先使用元素全名命名`
+    2. The second element is named as if it were an anion.
+      `第二個元素的命名需要讓他看起來像個離子`
+    3. **Profixes are used to denote the number of atom present.** 
+      `前綴被用來描述所擁有的原子數`
+       * 前綴與原子數目對照表
+         | 前綴 | 原子數目 |
+         | --- | --- |
+         | Mono | 1 atom |
+         | Di | 2 atoms |
+         | tri | 3 atoms |
+         | tetra | 4 atoms |
+         | penta | 5 atoms |
+         | hexa | 6 atoms |
+         | hepta | 7 atoms |
+         | octa | 8 atoms |
+    4. The prefix "mono" is never used for naming the first element.
+      `mono從不用來命名第一個元素`
+        >$N_2O$: Dinitrogen monoxide
+        >$NO$: Nitrogen monoxide
+* acid
+  1. does not contain oxygen
+  If the anion does not contain oxygen, the acid is named with the prefix "hydro—" and suffix "—ic"
+    `如果離子不含氧，則酸以前綴“hydro-”和後綴“-ic”命名`
+      >Ex: $HF$: hydroflucric acid
+  2. containing oxygen
+    Small number of oxygen is "—ous", large number of oxygen is "—ic".
+      `如果離子含氧，則少量氧氣的後綴為"-ous"，大量氧氣的後綴為"-ic"`
+      >$HNO_2$: nitrous acid
+      >$HNO_3$: nitric acid
