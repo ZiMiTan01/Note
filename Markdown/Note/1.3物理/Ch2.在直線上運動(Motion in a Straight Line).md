@@ -4,7 +4,7 @@
 
 ---
 
-## 平均運動
+## 2.1平均運動
 
 ### 例題
 
@@ -21,7 +21,7 @@ it also take 15 min to return home. _(10Km)_
 >$$\overrightarrow{v}=\frac{0}{30}=0 $$
 ---
 
-## 速度與瞬時速率
+## 2.2 速度與瞬時速率
 
 * 速度(Velocity)
   Velocity is the rete of change of position.
@@ -51,16 +51,16 @@ it also take 15 min to return home. _(10Km)_
 
 ---
 
-## 加速度
+## 2.3 加速度
 
 ---
 
-## 等加速度
+## 2.4 等加速度
 
 ---
 
-## 重力加速度
+## 2.5 重力加速度
 
 ---
 
-## 非等速率運動
+## 2.6 非等速率運動
