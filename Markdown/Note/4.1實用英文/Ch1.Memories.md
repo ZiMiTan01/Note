@@ -24,6 +24,30 @@
 * Referee(裁判)
   * 近義詞：umpire(For 網球、羽球), judge(For 國標舞)
     * umpire, judge和referee的差別：定點和跑來跑去的裁判
+* **Report Cord(成績單)**
+  * 近義詞：transcript
+* **manage(成功做到某事)**
+* **pretand(假裝)**
+* **Forevar(永遠)**
+  * 近義詞：permanent
+* **film(電影)**
+* **console(操作台、控制台)**$ _{(n)} $
+* **bashful(害羞的)**
+  * 近義詞：coy(女用)
+* **chore(雜事、家事)**
+  * 近義詞：housework
+  * Do the housework=
+    * do the domestic chore
+    * do the household chore
+* **karete(柔道)**
+  * 近義詞：judo
+* ***palatable(好吃、美味)***
+  * 近義詞：delectable
+* **approximately(大約)**
+* **rarely(勉強)**
+  * 近義詞：sarcely
+* **huge(巨大的)**
+  * 近義詞：jumbo, giant, gargantuan
 
 ---
 

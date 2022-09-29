@@ -4,9 +4,12 @@
 
 ---
 
-## 2.1平均運動
+## 2.1平均運動(Avarage Motion)
 
-### 例題
+### 位置與位移(Position and Displacement)
+
+* **Position(位置)** can be described by a positive or negative number from a standard reference point(Position zero) on a coordinate system.
+`在座標系統中，位置可以從標準參考點(0,0)來做正數或負數的表示。`
 
 ### 例題2.1 Pizza Trip
 
@@ -18,19 +21,20 @@ it also take 15 min to return home. _(10Km)_
 >但其初位置與末位置都是家，故可得：
 >$$\Delta x=0$$
 >則其平均速度為：
->$$\overrightarrow{v}=\frac{0}{30}=0 $$
+>$$\bar{v}=\frac{0}{30}=0 $$
 ---
 
 ## 2.2 速度與瞬時速率
 
 * 速度(Velocity)
   Velocity is the rete of change of position.
-  * 平均速度(Avarage velocity)
-    Is defined as the displacement $\Delta x$ divided by the time interval $\Delta t$:
-    $$ v= \frac{\Delta x}{\Delta t} $$
-  * Intantanneous velocity(瞬間速度)
-    
-  * Intantanneous Speed(瞬間速度)
+  * **Avarage velocity(平均速度)** is defined as the displacement $\Delta x$ divided by the time interval $\Delta t$:
+    `平均速度的定義是位移Δx除以時間間隔Δt`
+    $$ \bar{v}= \frac{\Delta x}{\Delta t} $$
+  * **Instantaneous velocity(瞬間速度)** is the limit of average velocity as the time interval becomes arbitrarily short:
+      `瞬間速度是某個時間點之平均速度的極限值`
+      $$ v=\lim_{\Delta t\to 0}\frac{\Delta x}{\Delta t}=\frac{\partial x}{\partial t}  $$
+  * **Instantaneous Speed(瞬間速率)** is the manitude of the Instantanneous
 
 ### 使用微積分求導函數
 
