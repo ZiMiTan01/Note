@@ -37,3 +37,16 @@ $$
 \Delta E=h\times v=\frac{h\times c}{\lambda}=
 \frac{{{6.63\times 10^{-34}}_{(J\times s)}}\times {3\times 10^{8}}_{m\div s}}{{121.6\times 10^{-9}}_m}= {1.65\times 10^{-18}}_{(J)}
 $$
+
+---
+
+## 主量子數與原子軌域
+
+* 主量子數：K、L、M、N...
+* 角量子數：S、P、D、F...
+  |角量子數|軌域數|
+  |---|---|
+  |s|1|
+  |p|3|
+  |d|5|
+  |f|7|
