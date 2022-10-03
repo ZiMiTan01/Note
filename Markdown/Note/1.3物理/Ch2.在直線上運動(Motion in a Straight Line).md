@@ -57,6 +57,10 @@ it also take 15 min to return home. _(10Km)_
 
 ## 2.3 加速度
 
+* When acceleration is constant, then position, velocity acceleration, and time are result by <!-- 未完成 -->
+* 等加速度四大公式
+  $$ v=v_0=at $$ $$ x=x_0+\frac{1}{2}t(v_0+at) $$ $$ x=x_0+v_0t=\frac{1}{2}at^{2} $$ $$ v^2=v^{2}_0+2a(x-x_0) $$
+
 ---
 
 ## 2.4 等加速度
