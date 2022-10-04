@@ -32,8 +32,8 @@ it also take 15 min to return home. _(10Km)_
     `平均速度的定義是位移Δx除以時間間隔Δt`
     $$ \bar{v}= \frac{\Delta x}{\Delta t} $$
   * **Instantaneous velocity(瞬間速度)** is the limit of average velocity as the time interval becomes arbitrarily short:
-      `瞬間速度是某個時間點之平均速度的極限值`
-      $$ v=\lim_{\Delta t\to 0}\frac{\Delta x}{\Delta t}=\frac{\partial x}{\partial t}  $$
+    `瞬間速度是某個時間點之平均速度的極限值`
+    $$ v=\lim_{\Delta t\to 0}\frac{\Delta x}{\Delta t}=\frac{\partial x}{\partial t}  $$
   * **Instantaneous Speed(瞬間速率)** is the manitude of the Instantanneous
 
 ### 使用微積分求導函數
@@ -45,7 +45,8 @@ it also take 15 min to return home. _(10Km)_
     $$ \frac{\partial(b\times t^n)}{\partial t}=bn\times t^{n-1} $$
   * Other common derivatives include the trig functions:
     `導數包含在三角函數中`
-    $$ \frac{\partial(\sin bt)}{\partial t}=b\cos bt $$ $$ \frac{\partial(\cos bt)}{\partial t}=-b\sin bt $$
+  $$ \frac{\partial(\sin bt)}{\partial t}=b\cos bt $$
+  $$ \frac{\partial(\cos bt)}{\partial t}=-b\sin bt $$
 
 #### 例題2.2 火箭升空(A Rocket Ascends)
 
@@ -57,9 +58,26 @@ it also take 15 min to return home. _(10Km)_
 
 ## 2.3 加速度
 
-* When acceleration is constant, then position, velocity acceleration, and time are result by <!-- 未完成 -->
-* 等加速度四大公式
-  $$ v=v_0=at $$ $$ x=x_0+\frac{1}{2}t(v_0+at) $$ $$ x=x_0+v_0t=\frac{1}{2}at^{2} $$ $$ v^2=v^{2}_0+2a(x-x_0) $$
+### 等加速度四大公式
+
+  $$ v=v_0+at $$
+  $$ x=x_0+\frac{1}{2}t(v_0+at) $$
+  $$ x=x_0+v_0t+\frac{1}{2}at^{2} $$
+  $$ v^2=v^{2}_0+2a(x-x_0) $$
+
+#### 例題2.3 噴射客機的著陸
+
+A jetliner down at 270km/h, then decelerate at 4.5m/s^2. What's the minimum runway length on which it can land?
+`一架噴射客機以270km/h著地，其減加速度為4.5m/s^2，求最小跑道長度為多少？`
+
+$ v=0 $
+$ v_0=270(km/h)=75m/s $
+最小跑道長度$L_{min}$
+$$ L_{min}=\Delta x=|\frac{v^2-v_0^2}{2a}|=\frac{{75_{(m/s)}}^2}{9_{(m/s^2)}}=625_{(m/s)} $$
+
+#### 例題2.4 超速追捕
+
+
 
 ---
 
