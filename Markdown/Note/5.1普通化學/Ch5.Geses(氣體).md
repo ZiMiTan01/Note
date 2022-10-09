@@ -77,10 +77,11 @@ The mixture of $CH_4$ and $O_2$，$P_{CH_4}=0.175(atm)$，$ P_{O_2}=0.250(atm) $
 >$ Sol: $
 >
 > 1. What is the mole fraction of each gas.
-> $$ X_{CH_4}=\frac{P_{CH_4}}{P_{total}}=\frac{0.175}{0.175+0.25}_(atm)=0.412_{(atm)} $$ $$ X_{O_2}=1-X_{CH_4}=0.588_{(atm)} $$
+> $$ X_{CH_4}=\frac{P_{CH_4}}{P_{total}}=\frac{0.175}{0.175+0.25}(atm)=0.412_{(atm)} $$ $$ X_{O_2}=1-X_{CH_4}=0.588_{(atm)} $$
 >
 > 2. If the mixture occupies $ 10.5(L) $ at $ 65^{\circ}C $, calculato $ n_{total} $.
 > $$ n_{total}=\frac{P_{total}V}{RT}=\frac{0.425\times 10.5}{0.082\times 338}=0.161_{(mol)} $$
 >
 > 3. Calculato the number of grams of each gas in the mixture.
-> $$ n_{CH_4}:X_{CH_4}\times n_{total}=0.412\times 0.161= 6.63\times 10^{-2}mol $$ $$ W_{CH_4}=n_{CH_4}\times 16=1.06_{(g)} $$
+> $$ n_{CH_4}:X_{CH_4}\times n_{total}=0.412\times 0.161= 6.63\times 10^{-2}mol $$ $$ \therefore W_{CH_4}=n_{CH_4}\times 16=1.06_{(g)} $$
+> $$ n_{O_2}=0.588\times 0.161=9.46\times {10^{-2}}_{(mol)} $$ $$ \therefore n_{O_2}\times 32=3.02_{(g)} $$
