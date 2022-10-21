@@ -29,7 +29,7 @@ The ideal gas is the behaviour of real gas approaching at low pressures and high
 2. **Charles's law(查理定律)**
   The volume of a gas at constant pressure increases linearly with temperature of gas.
   `恆定壓力下的氣體體積與氣體溫度成正比。`
-  ![查理定律](2022-10-09-14-05-12.png)
+  ![查理定律](./Pictrue/2022-10-09-14-05-12.png)
   $$ v=bT $$
     > T: kelvin temperature `克耳文溫標`
     > b: constant `恆定值`
@@ -105,4 +105,42 @@ kinetic molecular theary is a simple model to explain the properties of an ideal
 * The average kinetic energy of collection of gas particles is assumed to be directly proportional to the kelvin temperature of the gas.
 `氣體粒子的擁有的平均動能與氣體的克氏溫度成正比`
 `proportional:正比`
-$$ E_k\propto T $$
+$$ \therefore E_k\propto T $$
+
+---
+
+### $ E_k\propto T $
+
+<div><img src=Pictrue/IMG_20221021_102157.jpg width=20% /></div>
+<div><img src=Pictrue/IMG_20221021_102212.jpg width=20% /><div>
+<!-- 之後再寫，這邊內容有點多 -->
+
+### Root Mean square velocity(均方根速率)
+
+* $ \bar{u}^2:\text{the average of the square velocity} $
+* $ u_{rms}=\sqrt{\bar{u}^2}:\text{root mean square velocity} $
+$$ K_E=N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT $$ $$ \Rightarrow\bar{u}^2=\frac{3RT}{mN_A}\Rightarrow u_{rms}=\sqrt{\bar{u}^2}=\sqrt{\frac{3RT}{mN_A}} $$
+
+* $ u_{mp}:\text{most probable velocity} $
+  > The most probable velocity mean the velocity possessed by the greatest number of gas particle.
+
+  $$ u_{mp}=\sqrt{\frac{2k_sT}{m}}=\sqrt{\frac{2RT}{mV_A}} $$
+  > $ m $: A gas particle mass
+  > $ k_B $: Boltzmann's constant
+  > $ k_B=1.38\times 10^{-23}() $
+<!-- 待補 -->
+
+---
+
+## Real gas(真實氣體)
+
+![關係圖](./Pictrue/IMG_20221021_113155.jpg)
+
+* 左圖：Low Pressure(P) to ideal gas.
+* 右圖：High Temperature(Temp.) approach to ideal gas.
+
+### 凡得瓦方程式
+
+$$ (P_{obs}+a(\frac{n}{V})^2)(V-nb)=nRT $$
+  > $ (P_{obs}+a(\frac{n}{V})^2) $: Corrected pressure(ideal as attract)
+  > $ (V-nb) $: Corrected volume(ideal gas don't have volume)
