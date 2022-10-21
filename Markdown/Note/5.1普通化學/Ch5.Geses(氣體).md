@@ -85,3 +85,24 @@ The mixture of $CH_4$ and $O_2$，$P_{CH_4}=0.175(atm)$，$ P_{O_2}=0.250(atm) $
 > 3. Calculato the number of grams of each gas in the mixture.
 > $$ n_{CH_4}:X_{CH_4}\times n_{total}=0.412\times 0.161= 6.63\times 10^{-2}mol $$ $$ \therefore W_{CH_4}=n_{CH_4}\times 16=1.06_{(g)} $$
 > $$ n_{O_2}=0.588\times 0.161=9.46\times {10^{-2}}_{(mol)} $$ $$ \therefore n_{O_2}\times 32=3.02_{(g)} $$
+
+---
+
+## kinetic molecular theary(分子動力學)
+
+kinetic molecular theary is a simple model to explain the properties of an ideal gas.
+`分子動力學是解釋理想氣體性質的簡單模型。`
+
+* The particles are so small compared with the distamces between them that the volume of the individual particles can be assumed to be negligible.
+`與它們之間的距離相比，這些粒子是如此之小，以至於可以假設單個粒子的體積可以忽略不計。`
+
+* The particles are in constant motion. The collisions of the particles with the walls of the container are the cause of the pressure exerted by the gas.
+`粒子的運動持續不斷，氣體分子不斷撞擊器壁是造成氣壓的原因。`
+
+* The particles are assumed to neither attract nor repel each other.
+`粒子被假設不吸引也不排斥`
+
+* The average kinetic energy of collection of gas particles is assumed to be directly proportional to the kelvin temperature of the gas.
+`氣體粒子的擁有的平均動能與氣體的克氏溫度成正比`
+`proportional:正比`
+$$ E_k\propto T $$
