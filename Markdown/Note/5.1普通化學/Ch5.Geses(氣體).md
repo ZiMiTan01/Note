@@ -119,7 +119,9 @@ $$ \therefore E_k\propto T $$
 
 * $ \bar{u}^2:\text{the average of the square velocity} $
 * $ u_{rms}=\sqrt{\bar{u}^2}:\text{root mean square velocity} $
-$$ K_E=N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT $$ $$ \Rightarrow\bar{u}^2=\frac{3RT}{mN_A}\Rightarrow u_{rms}=\sqrt{\bar{u}^2}=\sqrt{\frac{3RT}{mN_A}} $$
+$$ K_E=N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT \\
+\Rightarrow\bar{u}^2=\frac{3RT}{mN_A} \\
+\Rightarrow u_{rms}=\sqrt{\bar{u}^2}=\sqrt{\frac{3RT}{mN_A}} $$
 
 * $ u_{mp}:\text{most probable velocity} $
   > The most probable velocity mean the velocity possessed by the greatest number of gas particle.
