@@ -11,7 +11,9 @@ A Vector can be represented by an arrow whose length corresponds to the Vector's
 
 * Vector Addition(向量加法)
 $$ \vec{r_2}=\vec{r_1}+\Delta\vec{r} $$
-<!-- 可以插一張圖 -->
+![向量加法](Picture/螢幕快照%202022-10-24%2015-08-49.png)
+* Vector subtract(向量減法)
+$$ \vec{A}-\vec{B}=\vec{A}+{(-\vec{B})} $$
 
 ### 向量乘除純量
 
@@ -33,8 +35,10 @@ $$ \hat{A}=\frac{\vec{A}}{|\bar{A}|} $$
   |$ \hat{k} $|表示z軸向量|
 * 二維向量表示
 $$ \vec{A}=\vec{A_x}+\vec{A_y}={A_x}\hat{i}+{A_y}\hat{j} $$
+![二維](Picture/螢幕快照%202022-10-24%2015-22-56.png)
 * 三維向量表示
 $$ \vec{A}=\vec{A_x}+\vec{A_y}+\vec{A_z}={A_x}\hat{i}+{A_y}\hat{j}+{A_z}\hat{k} $$
+![三維](Picture/螢幕快照%202022-10-24%2015-23-32.png)
 
 ### Vector Components(向量分量)
 
@@ -50,10 +54,13 @@ $$ \vec{A}=\vec{A_x}+\vec{A_y}+\vec{A_z}={A_x}\hat{i}+{A_y}\hat{j}+{A_z}\hat{k} 
 
 You drive to a city 160km from home, going $ 35^{\circ} $ N or E
 Express your new your position in Unit Vector notation, using an E-W / N-S coordinate system.
-> $ \vec{r}={r_x}\hat{i}+{r_y}\hat{j} $
 >$$
-> {r_x}=r\cos \theta=160_{(Km)}\times \cos 35^{\circ}=131_{(km)} \\
-> {r_y}=r\sin \theta=160_{(Km)}\times \sin 35^{\circ}=92_{(km)}\\
+>\vec{r}={r_x}\hat{i}+{r_y}\hat{j} 
+> \begin{cases}
+  > {r_x}=r\cos \theta=160_{(Km)}\times \cos 35^{\circ}=131_{(km)} \\
+  > {r_y}=r\sin \theta=160_{(Km)}\times \sin 35^{\circ}=92_{(km)}
+\end{cases}
+\\
 > \therefore \text{The position of the City is }\vec{r}=131\hat{i}+92\hat{j}
 > $$
 
@@ -80,5 +87,7 @@ $$
 \end{cases}
 $$
 
-## 3.2 Velocity and Acceleration Vectors
 
+### 自由落體
+
+$$ y=y_0-\frac{1}{2}gt^2 $$
