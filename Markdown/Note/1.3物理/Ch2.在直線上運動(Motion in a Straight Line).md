@@ -10,6 +10,8 @@
 
 * **Position(位置)** can be described by a positive or negative number from a standard reference point(Position zero) on a coordinate system.
 `在座標系統中，位置可以從標準參考點(0,0)來做正數或負數的表示。`
+* **Displacement(位移)** is change in position. Displacement is a vector which has both magnitude and direction.
+`位移是位置的變化量，是個既有大小又有方向的向量。`
 
 ### 例題2.1 Pizza Trip
 
@@ -60,10 +62,14 @@ it also take 15 min to return home. _(10Km)_
 
 ### 等加速度四大公式
 
-  $$ v=v_0+at $$
-  $$ x=x_0+\frac{1}{2}t(v_0+at) $$
-  $$ x=x_0+v_0t+\frac{1}{2}at^{2} $$
-  $$ v^2=v^{2}_0+2a(x-x_0) $$
+$$
+\begin{cases}
+  v=v_0+at \\
+  x=x_0+\frac{1}{2}t(v_0+at) \\
+  x=x_0+v_0t+\frac{1}{2}at^{2} \\
+  v^2=v^{2}_0+2a(x-x_0) \\
+\end{cases}
+$$
 
 #### 例題2.3 噴射客機的著陸
 
