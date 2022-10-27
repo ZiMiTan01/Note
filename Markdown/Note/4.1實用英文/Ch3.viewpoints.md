@@ -14,8 +14,11 @@
     * 近義詞：help
   * awful(極壞的)
 * I'm relly bad at taking exams.
-  * good at(擅長)
-    * 近義詞：brilliant(技藝高超)
+  * Be good at(擅長)
+    * 近義詞：Be adept at、Be brilliant(技藝高超) at、Be proficient at
+* **Handicapped(很難聽的殘障說法)**
+  * **disabled(好聽的殘障用法)**
+* crawl(爬行)
 
 ---
 
@@ -26,3 +29,35 @@
    smoking is harmful/detrimental to your health.
 2. Gerunds as the object of the verb.
    He suggested moving to the earthquake-free city.
+   She admitted breaking the vase.
+   >
+   > * 你必須避免犯同樣錯誤
+   > You must avoid making the same mistake.
+   > * 我希望將來可以當醫生
+   > I hope to be a docter in the future.
+
+3. Gerunds as the object of the preposition
+   She is interested in learning English.
+   They are tired of doing the same work.
+   >
+   > * 我很擅長維修平板電腦
+   > I am brilliant at fixing tablets.
+
+* verbs followed by Gerunds:
+  | suggest   | avoid    | deny        | risk  |
+  | --------- | -------- | ----------- | ----- |
+  | celebrate | consider | contemplate | defer |
+  | delay     | detest   | dislike     | dread |
+
+* verbs followed by lnfinitives:
+
+---
+
+## Three categories of gerunde:
+
+* verb + preposition
+| succeed in | insist | approve of | feel like | panic |
+| ---------- | ------ | ---------- | --------- |
+* .
+* .
+  * Be tired of
