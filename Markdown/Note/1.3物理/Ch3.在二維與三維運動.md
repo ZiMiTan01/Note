@@ -120,6 +120,15 @@ $$ \Delta\vec{v}=\vec{a}\Delta t $$
 
 ## 3.3 Relative Motion(相對運動)
 
+* Motion is Relative $\rightarrow$ requires frame of reference
+  `基於參考系統，運動是相對的`
+* An object moves with velocity $\vec{v'}$ relative to the first frame of reference.
+  `某物體以相對於第一參考系的速度v'移動`
+* The first frame moves at $\vec{V}$ relative to the second reference frame.
+  `第一參考系的物品相對於第二參考系的速度為V`
+* Then the velocity of the object relative to the second frame is $ \vec{v}=\vec{v'}+\vec{V} $
+  `那麼物體相對於第一參考系的速度為v=v'+V`
+
 ## 3.4 Constant Acceleration(等加速度)
 
 ### 等加速度方程式

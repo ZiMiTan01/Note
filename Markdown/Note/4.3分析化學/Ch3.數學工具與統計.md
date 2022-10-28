@@ -74,3 +74,25 @@ $$
 
 ---
 
+## 3-9 g-test(Grubbs test)
+
+$$ G=\frac{|\text{偏離值}-\bar{x}|}{s} $$
+$$
+\begin{split}
+  {if}& \\
+  &G_{算}>G_{表}\rightarrow \text{捨棄偏離值} \\
+  {else}& \\
+  &\text{不要捨棄}
+\end{split}
+$$
+
+---
+
+### 總結：F-test、t-test and G-test
+
+* F-test：確認實驗的精密度(有無隨機誤差)
+* t-test：確認實驗的準確度(有無系統誤差)
+* g-test：判斷離群值
+
+---
+
