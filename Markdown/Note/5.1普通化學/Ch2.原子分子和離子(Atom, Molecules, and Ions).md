@@ -25,8 +25,8 @@
 
 ## 分子(Molecules)
 
-When molecules formed the forces that hold atoms together is called chemical bond. By sharing $ e^{-} $s, these bond are called cavalent bonds.
-`當分子`
+When molecules formed the forces that hold atoms together is called chemical bond. By sharing $ e^{-} $s, these bond are called covalent bonds.
+`當分子形成將原子結合在一起的力時，這個力稱作化學鍵；而通過共享電子而形成的鍵結，稱為共價鍵`
 
 * Ex: $CO_2$ (Chemical formula)
   $$ O=C=O $$
