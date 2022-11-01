@@ -1,4 +1,4 @@
-# 一、做物理(Doing Physics)
+# Ch1.做物理(Doing Physics)
 
 [課程PPT](https://elearning.nkust.edu.tw/mooc/login.php)
 

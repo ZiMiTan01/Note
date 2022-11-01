@@ -1,4 +1,4 @@
-# 二、在直線上運動(Motion in a Straight Line)
+# Ch2.在直線上運動(Motion in a Straight Line)
 
 [課程PPT](https://elearning.nkust.edu.tw/mooc/login.php)
 

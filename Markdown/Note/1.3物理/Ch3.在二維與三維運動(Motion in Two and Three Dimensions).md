@@ -1,4 +1,4 @@
-# 在二維與三維運動
+# Ch3.在二維與三維運動(Motion in Two and Three Dimensions)
 
 ---
 
@@ -166,14 +166,14 @@ $$
 $$
 \begin{cases}
   x=x_0+v_{x0}t \\
-  y=y_0-\frac{1}{2}gt^2
+  y=y_0+v_{y0}t-\frac{1}{2}gt^2
 \end{cases}
 $$
 
 #### 例題 suicide
 
 某生想從頂樓跳下來，假設該樓有33公尺，已知重力加速度$ g=9.8m/s^2 $，求該生會在空中滯空幾秒？若該生向前跳的速度為$ 2m/s $，他會跳得多遠？
-<div align="center"><img src=./Picture/IMG_20221031_203723.jpg width=50%></div>
+<div align="center"><img src=./Picture/IMG_20221031_203723.jpg width=30%></div>
 
 $$
 \begin{cases}
@@ -183,3 +183,24 @@ $$
 \therefore t=\pm 2.6s=2.6s \\
 \rightarrow x=5.2m
 $$
+
+---
+
+## 3.5拋體運動
+
+* Motion under the influence of gravity near Earth's surface has essentially constant acceleration $\vec{g}$ whose magnitude is $ g=9.8m/s^2 $, and whose direction is downward.
+`在地球表面的物體受向下的重力加速度影響，它的大小g=9.8米/秒平方`
+* 拋體運動方程在y軸垂直向上的座標中：
+$$
+\begin{cases}
+  V_x=v_{x0} \\
+  v_y=v_{y0}-gt \\
+\end{cases} \\
+\begin{cases}
+  x=x_0+v_{x0}t \\
+  y=y_0+v_{y0}t-\frac{1}{2}gt^2
+\end{cases}
+$$
+
+---
+
