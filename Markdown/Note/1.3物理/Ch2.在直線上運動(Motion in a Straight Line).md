@@ -24,6 +24,7 @@ it also take 15 min to return home. _(10Km)_
 >$$\Delta x=0$$
 >則其平均速度為：
 >$$\bar{v}=\frac{0}{30}=0 $$
+
 ---
 
 ## 2.2 速度與瞬時速率
@@ -36,7 +37,8 @@ it also take 15 min to return home. _(10Km)_
   * **Instantaneous velocity(瞬間速度)** is the limit of average velocity as the time interval becomes arbitrarily short:
     `瞬間速度是某個時間點之平均速度的極限值`
     $$ v=\lim_{\Delta t\to 0}\frac{\Delta x}{\Delta t}=\frac{\partial x}{\partial t}  $$
-  * **Instantaneous Speed(瞬間速率)** is the manitude of the Instantanneous
+  * **Instantaneous Speed(瞬時速率)** is the magnitude of the Instantaneous.
+    `瞬時速率是某個時間點的速率大小`
 
 ### 使用微積分求導函數
 
@@ -82,8 +84,6 @@ $ v_0=270(km/h)=75m/s $
 $$ L_{min}=\Delta x=|\frac{v^2-v_0^2}{2a}|=\frac{{75_{(m/s)}}^2}{9_{(m/s^2)}}=625_{(m/s)} $$
 
 #### 例題2.4 超速追捕
-
-
 
 ---
 

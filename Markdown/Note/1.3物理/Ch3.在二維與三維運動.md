@@ -129,6 +129,8 @@ $$ \Delta\vec{v}=\vec{a}\Delta t $$
 * Then the velocity of the object relative to the second frame is $ \vec{v}=\vec{v'}+\vec{V} $
   `那麼物體相對於第一參考系的速度為v=v'+V`
 
+---
+
 ## 3.4 Constant Acceleration(等加速度)
 
 ### 等加速度方程式
@@ -150,4 +152,34 @@ $$
 
 ### 自由落體
 
-$$ y=y_0-\frac{1}{2}gt^2 $$
+![自由落體](./Picture/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202022-10-31%2015-37-11.png)
+  > 垂直下落與拋體運動下落間距相同，表明垂直和水平運動是獨立的。
+
+* 垂直下落
+$$
+\begin{cases}
+  x=x_0 \\
+  y=y_0-\frac{1}{2}gt^2
+\end{cases}
+$$
+* 拋體運動
+$$
+\begin{cases}
+  x=x_0+v_{x0}t \\
+  y=y_0-\frac{1}{2}gt^2
+\end{cases}
+$$
+
+#### 例題 suicide
+
+某生想從頂樓跳下來，假設該樓有33公尺，已知重力加速度$ g=9.8m/s^2 $，求該生會在空中滯空幾秒？若該生向前跳的速度為$ 2m/s $，他會跳得多遠？
+<div align="center"><img src=./Picture/IMG_20221031_203723.jpg width=50%></div>
+
+$$
+\begin{cases}
+  x'=0+2t \\
+  0=33-\frac{1}{2}gt^2
+\end{cases} \\
+\therefore t=\pm 2.6s=2.6s \\
+\rightarrow x=5.2m
+$$

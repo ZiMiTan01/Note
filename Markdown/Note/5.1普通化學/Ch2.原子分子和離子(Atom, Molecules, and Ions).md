@@ -75,7 +75,7 @@ $$ Na\to Na^++e^- $$ $$ Cl+e^-\to Cl^- $$
       `第一個出現在化學式中的元素需要優先使用元素全名命名`
     2. The second element is named as if it were an anion.
       `第二個元素的命名需要讓他看起來像個離子`
-    3. **Profixes are used to denote the number of atom present.** 
+    3. **Profixes are used to denote the number of atom present.**
       `前綴被用來描述所擁有的原子數`
        * 前綴與原子數目對照表
          | 前綴 | 原子數目 |

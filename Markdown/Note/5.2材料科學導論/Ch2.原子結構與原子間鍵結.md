@@ -1,5 +1,7 @@
 # 原子結構與原子鍵結
 
+[課程ppt](./Picture/Chapter%202%20Atomic%20structure%20and%20Bonding.pdf)
+
 ---
 
 ## 原子質量單位(Atomic mass unit, amu)
