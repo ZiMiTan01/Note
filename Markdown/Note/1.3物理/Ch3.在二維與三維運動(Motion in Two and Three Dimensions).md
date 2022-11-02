@@ -73,12 +73,14 @@ $$
   \vec{A_y}\text{是}\vec{A}\text{的y分量} \\
 \end{cases} \rightarrow \vec{A}=\vec{A_x}+\vec{A_y}
 $$
+
 $$
 \begin{cases}
   {A_x}=|\vec{A_x}|=A\cos\theta \\
   {A_y}=|\vec{A_y}|=A\sin\theta \\
 \end{cases}\rightarrow A=\sqrt{{A_x}^2+{A_y}^2}
 $$
+
 $$
 \tan\theta=\frac{A_y}{A_x} \rightarrow \theta=\tan^{-1}\frac{A_y}{A_x}
 $$
@@ -117,6 +119,7 @@ Express your new your position in Unit Vector notation, using an E-W / N-S coord
   > {r_y}=r\sin \theta=160_{(Km)}\times \sin 35^{\circ}=92_{(km)}
 > \end{cases}
 > $$
+>
 > $$
 > \therefore \text{The position of the City is }\vec{r}=131\hat{i}+92\hat{j}
 > $$
@@ -238,6 +241,7 @@ $$
   0=33-\frac{1}{2}gt^2
 \end{cases}
 $$
+
 $$
 \therefore t=\pm 2.6s=2.6s \\
 \rightarrow x=5.2m
@@ -257,6 +261,7 @@ $$
   v_y=v_{y0}-gt \\
 \end{cases}
 $$
+
 $$
 \begin{cases}
   x=x_0+v_{x0}t \\
