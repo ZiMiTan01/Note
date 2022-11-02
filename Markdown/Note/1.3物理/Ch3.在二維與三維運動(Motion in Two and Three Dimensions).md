@@ -73,10 +73,12 @@ $$
   \vec{A_y}\text{是}\vec{A}\text{的y分量} \\
 \end{cases} \rightarrow \vec{A}=\vec{A_x}+\vec{A_y}
 \\
+\\
 \begin{cases}
   {A_x}=|\vec{A_x}|=A\cos\theta \\
   {A_y}=|\vec{A_y}|=A\sin\theta \\
 \end{cases}\rightarrow A=\sqrt{{A_x}^2+{A_y}^2}
+\\
 \\
 \tan\theta=\frac{A_y}{A_x} \rightarrow \theta=\tan^{-1}\frac{A_y}{A_x}
 $$
