@@ -18,6 +18,7 @@ $$
 $$
 
 * Vector subtract(向量減法)
+
 $$
 \vec{A}-\vec{B}=\vec{A}+{(-\vec{B})}
 $$
@@ -32,9 +33,10 @@ $$
 ### Unit Vectors(單位向量)
 
 * **計算**
-已知$\vec{A}$為一向量，$|\bar{A}|$則為向量的長度，則該向量的單位向量為：
+已知 $\vec{A}$ 為一向量， $|\bar{A}|$ 則為向量的長度，則該向量的單位向量為：
+
 $$
-  \hat{A}=\frac{\vec{A}}{|\bar{A}|}
+\hat{A}=\frac{\vec{A}}{|\bar{A}|}
 $$
 
 * 常用單位向量
@@ -43,7 +45,6 @@ $$
   | $ \hat{i} $ | 表示x軸向量 |
   | $ \hat{j} $ | 表示y軸向量 |
   | $ \hat{k} $ | 表示z軸向量 |
-
 * 二維向量表示
 
 <div align="center"><img src=Picture/螢幕快照%202022-10-24%2015-22-56.png width=50%></div>
@@ -95,6 +96,7 @@ $$
   <div align="center"><img src=./Picture/螢幕快照%202022-10-26%2015-38-36.png width=40%></div>
 
   > then
+  >
   > $$
   >   \vec{A}+\vec{B}=({A_x}+{B_x})\hat{i}+({A_y}+{B_y})\hat{j}
   > $$
@@ -119,23 +121,30 @@ Express your new your position in Unit Vector notation, using an E-W / N-S coord
 
 * **Velocity** is the rate of change of Position.
 `速度是位置變化的速率`
-  * The **average velocity** over a time interval $ \Delta t $ is the change in the position vector $\Delta\vec{r}$ divided by the time interval $\Delta t$.
+  * The **average velocity** over a time interval $\Delta t$ is the change in the position vector $\Delta\vec{r}$ divided by the time interval $\Delta t$.
   `在某段時間內的平均速度是位置向量的變化(位移)除以時間的變化量`
+
   $$
   \bar{\vec{\rm v}}=\frac{\Delta\vec{r}}{\Delta t}
   $$
+
   * **Instantaneous velocity** is the time derivative of position:
   `瞬間速度是位置和時間的導函數`
+
   $$
   \vec{\rm v}=\lim_{\Delta t\to 0}\frac{\Delta\vec{r}}{\Delta t}=\frac{\partial\vec{r}}{\partial t}
   $$
+
 * **Acceleration** is the rate of change of velocity.
 `加速度是速度變化的速率`
   * 平均加速度
+
   $$
   \bar{\vec{a}}=\frac{\Delta\vec{v}}{\Delta t}
   $$
+
   * (瞬間)加速度
+
   $$
   \vec{a}=\frac{\partial\vec{v}}{\partial t}
   $$
@@ -144,6 +153,7 @@ Express your new your position in Unit Vector notation, using an E-W / N-S coord
 
 * An acceleration $\vec{a}$ acting for time $\Delta t$ produces a velocity change.
 `加速度作用於時間時會產生速度的變化`
+
 $$
 \Delta\vec{v}=\vec{a}\Delta t
 $$
@@ -158,7 +168,7 @@ $$
   `某物體以相對於第一參考系的速度v'移動`
 * The first frame moves at $\vec{V}$ relative to the second reference frame.
   `第一參考系的物品相對於第二參考系的速度為V`
-* Then the velocity of the object relative to the second frame is $ \vec{v}=\vec{v'}+\vec{V} $
+* Then the velocity of the object relative to the second frame is $\vec{v}=\vec{v'}+\vec{V}$
   `那麼物體相對於第一參考系的速度為v=v'+V`
 
 ---
@@ -174,7 +184,7 @@ $$
 $$
 \vec{v}=\vec{v}_0+\vec{a}t
 $$
-* For example, in two dimensions, the x and y-components of the position vector $\vec{r}$can be written as:
+* For example, in two dimensions, the x and y-components of the position vector $\vec{r}$ can be written as:
 `例如，在二維中，位置向量r 的 x 和 y 分量可以寫成：`
 $$
 \vec{r}=\vec{r}_0+\vec{v}_0+\frac{1}{2}\vec{a}t^2 \Rightarrow
@@ -226,7 +236,7 @@ $$
 
 ## 3.5拋體運動
 
-* Motion under the influence of gravity near Earth's surface has essentially constant acceleration $\vec{g}$ whose magnitude is $ g=9.8m/s^2 $, and whose direction is downward.
+* Motion under the influence of gravity near Earth's surface has essentially constant acceleration $\vec{g}$ whose magnitude is $g=9.8{(m/s^2)}$ , and whose direction is downward.
 `在地球表面的物體受向下的重力加速度影響，它的大小g=9.8米/秒平方`
 * 拋體運動方程在y軸垂直向上的座標中：
 
