@@ -34,14 +34,16 @@ $$
 * **計算**
 已知$\vec{A}$為一向量，$|\bar{A}|$則為向量的長度，則該向量的單位向量為：
 $$
-\hat{A}=\frac{\vec{A}}{|\bar{A}|}
+  \hat{A}=\frac{\vec{A}}{|\bar{A}|}
 $$
+
 * 常用單位向量
   | 向量        | 說明        |
   | ----------- | ----------- |
   | $ \hat{i} $ | 表示x軸向量 |
   | $ \hat{j} $ | 表示y軸向量 |
   | $ \hat{k} $ | 表示z軸向量 |
+
 * 二維向量表示
 
 <div align="center"><img src=Picture/螢幕快照%202022-10-24%2015-22-56.png width=50%></div>
@@ -92,9 +94,9 @@ $$
 * $\vec{A}={A_x}\hat{i}+{A_y}\hat{j}$, $\vec{B}={B_x}\hat{i}+{B_y}\hat{j}$
   <div align="center"><img src=./Picture/螢幕快照%202022-10-26%2015-38-36.png width=40%></div>
 
-  >then
+  > then
   > $$
-  > \vec{A}+\vec{B}=({A_x}+{B_x})\hat{i}+({A_y}+{B_y})\hat{j}
+  >   \vec{A}+\vec{B}=({A_x}+{B_x})\hat{i}+({A_y}+{B_y})\hat{j}
   > $$
 
 #### 例題3.1 Taking a Drive
@@ -189,13 +191,16 @@ $$
   > 垂直下落與拋體運動下落間距相同，表明垂直和水平運動是獨立的。
 
 * 垂直下落
+
 $$
 \begin{cases}
   x=x_0 \\
   y=y_0-\frac{1}{2}gt^2
 \end{cases}
 $$
+
 * 拋體運動
+
 $$
 \begin{cases}
   x=x_0+v_{x0}t \\
@@ -224,6 +229,7 @@ $$
 * Motion under the influence of gravity near Earth's surface has essentially constant acceleration $\vec{g}$ whose magnitude is $ g=9.8m/s^2 $, and whose direction is downward.
 `在地球表面的物體受向下的重力加速度影響，它的大小g=9.8米/秒平方`
 * 拋體運動方程在y軸垂直向上的座標中：
+
 $$
 \begin{cases}
   V_x=v_{x0} \\
