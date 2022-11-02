@@ -42,9 +42,9 @@ $$
 * 常用單位向量
   | 向量        | 說明        |
   | ----------- | ----------- |
-  | $ \hat{i} $ | 表示x軸向量 |
-  | $ \hat{j} $ | 表示y軸向量 |
-  | $ \hat{k} $ | 表示z軸向量 |
+  | $\hat{i}$ | 表示x軸向量 |
+  | $\hat{j}$ | 表示y軸向量 |
+  | $\hat{k}$ | 表示z軸向量 |
 * 二維向量表示
 
 <div align="center"><img src=Picture/螢幕快照%202022-10-24%2015-22-56.png width=50%></div>
@@ -71,12 +71,13 @@ $$
 \begin{cases}
   \vec{A_x}\text{是}\vec{A}\text{的x分量} \\
   \vec{A_y}\text{是}\vec{A}\text{的y分量} \\
-\end{cases} \rightarrow \vec{A}=\vec{A_x}+\vec{A_y} \\
+\end{cases} \rightarrow \vec{A}=\vec{A_x}+\vec{A_y}
+\\
 \begin{cases}
   {A_x}=|\vec{A_x}|=A\cos\theta \\
   {A_y}=|\vec{A_y}|=A\sin\theta \\
-\end{cases}
-\rightarrow A=\sqrt{{A_x}^2+{A_y}^2} \\
+\end{cases}\rightarrow A=\sqrt{{A_x}^2+{A_y}^2}
+\\
 \tan\theta=\frac{A_y}{A_x} \rightarrow \theta=\tan^{-1}\frac{A_y}{A_x}
 $$
 
@@ -85,7 +86,8 @@ $$
 
   $$
   \begin{split}
-    \vec{A}=&\vec{A_x}+\vec{A_y}+\vec{A_z} \\ =&{A_x}\hat{i}+{A_y}\hat{j}+{A_z}\hat{k} \\
+    \vec{A}=&\vec{A_x}+\vec{A_y}+\vec{A_z} \\
+    =&{A_x}\hat{i}+{A_y}\hat{j}+{A_z}\hat{k} \\
     A=&|\vec{A}|=\sqrt{\vec{A_x}+\vec{A_y}+\vec{A_z}}
   \end{split}
   $$
@@ -111,7 +113,8 @@ Express your new your position in Unit Vector notation, using an E-W / N-S coord
 > \begin{cases}
   > {r_x}=r\cos \theta=160_{(Km)}\times \cos 35^{\circ}=131_{(km)} \\
   > {r_y}=r\sin \theta=160_{(Km)}\times \sin 35^{\circ}=92_{(km)}
-> \end{cases} \\
+> \end{cases}
+> \\
 > \therefore \text{The position of the City is }\vec{r}=131\hat{i}+92\hat{j}
 > $$
 
@@ -181,11 +184,14 @@ $$
 `在恆定加速度的情況下，一維運動的方程在每個方向上獨立應用。`
 * When motion in two or three dimensions each motion equation stands for 2D or 3D separate equations.
 `當在二維或三維中運動時，每個運動方程代表 2D 或 3D 單獨的分量。`
+
 $$
 \vec{v}=\vec{v}_0+\vec{a}t
 $$
+
 * For example, in two dimensions, the x and y-components of the position vector $\vec{r}$ can be written as:
 `例如，在二維中，位置向量r 的 x 和 y 分量可以寫成：`
+
 $$
 \vec{r}=\vec{r}_0+\vec{v}_0+\frac{1}{2}\vec{a}t^2 \Rightarrow
 \begin{cases}
