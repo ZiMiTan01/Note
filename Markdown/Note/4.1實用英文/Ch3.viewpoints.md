@@ -19,6 +19,8 @@
 * **Handicapped(很難聽的殘障說法)**
   * **disabled(好聽的殘障用法)**
 * crawl(爬行)
+* keen(熱衷的)
+  * 近義詞：eager
 
 ---
 
@@ -53,11 +55,14 @@
 
 ---
 
-## Three categories of gerunde:
+## Three categories of gerunde
 
 * verb + preposition
-| succeed in | insist | approve of | feel like | panic |
-| ---------- | ------ | ---------- | --------- |
+
+  | succeed in | insist | approve of | feel like | panic |
+  | ---------- | ------ | ---------- | --------- | ----- |
+  |           |       |           |         |      |
+
 * .
 * .
   * Be tired of
