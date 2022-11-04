@@ -16,32 +16,38 @@
 
 The ideal gas is the behaviour of real gas approaching at low pressures and high temperature.
 `理想氣體是真實氣體在高溫低壓下的行為。`
+![理想氣體與其他氣體的比較](./Pictrue/2022-10-09-13-53-01.png)
 
 1. **Boyle's law(波以爾定律)**
-  A gas that obeys Boyle's law is called an ideal gas.
-  `如果有一個氣體符合波以爾定律，則那個氣體被稱作理想氣體`
-  ![理想氣體與其他氣體的比較](./Pictrue/2022-10-09-13-53-01.png)
-  $$ PV=k $$
-  ![波以爾定律示意圖](./Pictrue/2022-10-09-13-40-28.png)
-    > k: constant as a specific temperature for a given gas sample`已知氣體樣品的恆定溫度`
-    > T, n: constant`恆定的`
+   A gas that obeys Boyle's law is called an ideal gas.
+   `如果有一個氣體符合波以爾定律，則那個氣體被稱作理想氣體`
+![波以爾定律示意圖](./Pictrue/2022-10-09-13-40-28.png)
+
+   $$ PV=k $$
+
+   > k: constant as a specific temperature for a given gas sample`已知氣體樣品的恆定溫度`
+   > T, n: constant`恆定的`
 
 2. **Charles's law(查理定律)**
-  The volume of a gas at constant pressure increases linearly with temperature of gas.
-  `恆定壓力下的氣體體積與氣體溫度成正比。`
-  ![查理定律](./Pictrue/2022-10-09-14-05-12.png)
-  $$ v=bT $$
-    > T: kelvin temperature `克耳文溫標`
-    > b: constant `恆定值`
-    > $P_1$、n is constant `壓力和莫爾數為恆定值`
+   The volume of a gas at constant pressure increases linearly with temperature of gas.
+   `恆定壓力下的氣體體積與氣體溫度成正比。`
+![查理定律](./Pictrue/2022-10-09-14-05-12.png)
+
+   $$ v=bT $$
+
+   > T: kelvin temperature `克耳文溫標`
+   > b: constant `恆定值`
+   > $P_1$、n is constant `壓力和莫爾數為恆定值`
 
 3. **Avogadro's law(亞佛加厥定律)**
-  Equal volumes of gases at the same temperature and pressure contain the same number of "particles"
+   Equal volumes of gases at the same temperature and pressure contain the same number of "particles"
   `同體積的氣體在同溫同壓下含有相同的粒子數`
-  $$ v=an $$
-    > v: volume `體積`
-    > n: mole `莫爾數`
-    > $ T_1 $、P is constant `溫度和壓力為恆定值`
+
+   $$ v=an $$
+
+   > v: volume `體積`
+   > n: mole `莫爾數`
+   > $ T_1 $、P is constant `溫度和壓力為恆定值`
 
 ---
 
@@ -60,6 +66,7 @@ $$ \frac{1\times 0.082 \times 273}{1}=22.42_{(L)} $$
 
 For a mixture od gases in a container, the total pressure exerted is the sum of the pressure that each gas would exert if it were alone.
 `對混合氣體來說，在一個容器裡面的總壓為個別氣體的總和`
+
 $$ P_{total}=P_1+P_2+P_3... $$
 
 ### Mole Fraction(莫爾分率)
@@ -71,20 +78,28 @@ $$ X_1=\frac{n_1}{n_{total}}=\frac{n_1}{n_1+n_2+n_3...} $$
 The mixture of $CH_4$ and $O_2$，$P_{CH_4}=0.175(atm)$，$ P_{O_2}=0.250(atm) $
 
 1. What is the mole fraction of each gas.
-2. If the mixture occupies $ 10.5(L) $ at $ 65^{\circ}C $, calculato $ n_{total} $.
+2. If the mixture occupies $10.5(L)$ at $65^{\circ}C$, calculato $n_{total}$.
 3. Calculato the number of grams of each gas in the mixture.
 
->$ Sol: $
+> $ Sol: $
 >
 > 1. What is the mole fraction of each gas.
+>
 > $$ X_{CH_4}=\frac{P_{CH_4}}{P_{total}}=\frac{0.175}{0.175+0.25}(atm)=0.412_{(atm)} $$ $$ X_{O_2}=1-X_{CH_4}=0.588_{(atm)} $$
 >
 > 2. If the mixture occupies $ 10.5(L) $ at $ 65^{\circ}C $, calculato $ n_{total} $.
+>
 > $$ n_{total}=\frac{P_{total}V}{RT}=\frac{0.425\times 10.5}{0.082\times 338}=0.161_{(mol)} $$
 >
 > 3. Calculato the number of grams of each gas in the mixture.
-> $$ n_{CH_4}:X_{CH_4}\times n_{total}=0.412\times 0.161= 6.63\times 10^{-2}mol $$ $$ \therefore W_{CH_4}=n_{CH_4}\times 16=1.06_{(g)} $$
-> $$ n_{O_2}=0.588\times 0.161=9.46\times {10^{-2}}_{(mol)} $$ $$ \therefore n_{O_2}\times 32=3.02_{(g)} $$
+>
+> $$ n_{CH_4}:X_{CH_4}\times n_{total}=0.412\times 0.161= 6.63\times 10^{-2}mol $$
+>
+> $$ \therefore W_{CH_4}=n_{CH_4}\times 16=1.06_{(g)} $$
+>
+> $$ n_{O_2}=0.588\times 0.161=9.46\times {10^{-2}}_{(mol)} $$
+>
+> $$ \therefore n_{O_2}\times 32=3.02_{(g)} $$
 
 ---
 
@@ -105,6 +120,7 @@ kinetic molecular theary is a simple model to explain the properties of an ideal
 * The average kinetic energy of collection of gas particles is assumed to be directly proportional to the kelvin temperature of the gas.
 `氣體粒子的擁有的平均動能與氣體的克氏溫度成正比`
 `proportional:正比`
+
 $$ \therefore E_k\propto T $$
 
 ---
@@ -117,16 +133,20 @@ $$ \therefore E_k\propto T $$
 
 ### Root Mean square velocity(均方根速率)
 
-* $ \bar{u}^2:\text{the average of the square velocity} $
-* $ u_{rms}=\sqrt{\bar{u}^2}:\text{root mean square velocity} $
-$$ K_E=N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT \\
+* $\bar{u}^2:\text{the average of the square velocity}$
+* $u_{rms}=\sqrt{\bar{u}^2}:\text{root mean square velocity}$
+
+$$
+K_E=N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT \\
 \Rightarrow\bar{u}^2=\frac{3RT}{mN_A} \\
-\Rightarrow u_{rms}=\sqrt{\bar{u}^2}=\sqrt{\frac{3RT}{mN_A}} $$
+\Rightarrow u_{rms}=\sqrt{\bar{u}^2}=\sqrt{\frac{3RT}{mN_A}}
+$$
 
 * $ u_{mp}:\text{most probable velocity} $
   > The most probable velocity mean the velocity possessed by the greatest number of gas particle.
 
   $$ u_{mp}=\sqrt{\frac{2k_sT}{m}}=\sqrt{\frac{2RT}{mV_A}} $$
+  >
   > $ m $: A gas particle mass
   > $ k_B $: Boltzmann's constant
   > $ k_B=1.38\times 10^{-23}() $
@@ -144,5 +164,6 @@ $$ K_E=N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT \\
 ### 凡得瓦方程式
 
 $$ (P_{obs}+a(\frac{n}{V})^2)(V-nb)=nRT $$
+
   > $ (P_{obs}+a(\frac{n}{V})^2) $: Corrected pressure(ideal as attract)
   > $ (V-nb) $: Corrected volume(ideal gas don't have volume)
