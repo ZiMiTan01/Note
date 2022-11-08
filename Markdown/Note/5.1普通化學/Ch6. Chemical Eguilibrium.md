@@ -84,7 +84,9 @@ $$
 ### 例題51
 
 For the reaction below, $ K_p=1.16 $ at $ 800^{\circ}C $.
+
 $$ CaCO_{3(s)}\rightleftharpoons CaO_{(s)}+CO_{2(g)} $$
+
 If a 20.0-g sample of $ CaCO_3 $ is put into a 10.0-L container and heated to $ 800^{\circ}C $, what percentage by mass of the $ CaCO_3 $ will react to reach equilibrium?
 $ k_p=P_{CO_2}=1.16 atm $
 $$
