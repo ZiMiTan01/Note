@@ -7,7 +7,7 @@
 * In 1643, Torricelli showed that the air in the atmosphere exerts pressure.
   `托里切利表明，大氣中的空氣會施加壓力。`
 * The pressure unit is millmeters of mercury (mm-Hg) is called the "torr" in honor of Torricelli.
-`壓力單位是毫米汞柱(mm-Hg)被稱為“torr”以紀念托爾切利。`
+  `壓力單位是毫米汞柱(mm-Hg)被稱為“torr”以紀念托爾切利。`
 ![大氣壓力](./Pictrue/2022-10-09-13-26-47.png)
 
 ---
@@ -89,7 +89,7 @@ The mixture of $CH_4$ and $O_2$，$P_{CH_4}=0.175(atm)$，$ P_{O_2}=0.250(atm) $
 > $Sol:$
 >
 > 1. What is the mole fraction of each gas?
->    `每種氣體的莫耳分率有多少?`
+> `每種氣體的莫耳分率有多少?`
 >
 > $$ X_{CH_4}=\frac{P_{CH_4}}{P_{total}}=\frac{0.175}{0.175+0.25}(atm)=0.412_{(atm)} $$
 >
