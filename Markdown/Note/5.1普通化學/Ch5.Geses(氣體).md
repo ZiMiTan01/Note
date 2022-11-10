@@ -28,8 +28,10 @@ The ideal gas is the behaviour of real gas approaching at low pressures and high
 
    $$ PV=k $$
 
-   > k: constant as a specific temperature for a given gas sample`已知氣體樣品的恆定溫度`
-   > T, n: constant`恆定的`
+   > k: constant as a specific temperature for a given gas sample
+   > `K: 已知氣體樣品的恆定溫度`
+   > T, n: constant
+   > `T, n: 恆定的`
 
 2. **Charles's law(查理定律)**
    The volume of a gas at constant pressure increases linearly with temperature of gas.
