@@ -102,10 +102,12 @@ The mixture of $CH_4$ and $O_2$，$P_{CH_4}=0.175(atm)$，$ P_{O_2}=0.250(atm) $
 > $$ X_{O_2}=1-X_{CH_4}=0.588_{(atm)} $$
 >
 > 2. If the mixture occupies $10.5(L)$ at $65^{\circ}C$, calculato $n_{total}$.
+> `如果混合物在65度下佔10.5(L)，計算總莫耳數。`
 >
 > $$ n_{total}=\frac{P_{total}V}{RT}=\frac{0.425\times 10.5}{0.082\times 338}=0.161_{(mol)} $$
 >
 > 3. Calculato the number of grams of each gas in the mixture.
+> `計算混合物中每種氣體的克數`
 >
 > $$ n_{CH_4}:X_{CH_4}\times n_{total}=0.412\times 0.161= 6.63\times 10^{-2}mol $$
 >
@@ -124,13 +126,13 @@ The mixture of $CH_4$ and $O_2$，$P_{CH_4}=0.175(atm)$，$ P_{O_2}=0.250(atm) $
 
 ---
 
-## kinetic molecular theary(分子動力學)
+## kinetic molecular theary(氣體動力學)
 
 kinetic molecular theary is a simple model to explain the properties of an ideal gas.
-`分子動力學是解釋理想氣體性質的簡單模型。`
+`氣體動力學是解釋理想氣體性質的簡單模型。`
 
 * The particles are so small compared with the distamces between them that the volume of the individual particles can be assumed to be negligible.
-  `與它們之間的距離相比，這些粒子是如此之小，以至於可以假設單個粒子的體積可以忽略不計。`
+  `與氣體粒子之間的距離相比，這些粒子是如此之小，以至於可以假設單個粒子的體積可以忽略不計。`
 
 * The particles are in constant motion. The collisions of the particles with the walls of the container are the cause of the pressure exerted by the gas.
   `粒子的運動持續不斷，氣體分子不斷撞擊器壁是造成氣壓的原因。`
@@ -145,16 +147,28 @@ $$ \therefore E_k\propto T $$
 
 ---
 
-### $ E_k\propto T $
+### $E_k\propto T$
 
 <div><img src=Pictrue/IMG_20221021_102157.jpg width=20% /></div>
+
+$$
+(\text{collision frequency})_x=\frac{\text{Velocity in x direction}{(m/s)}}{\text{distance between the walls}{(m)}}=\frac{u_x}{L}(1/s)
+$$
+
+$$
+\begin{split}
+  \because F_x(Force)=ma=&\frac{\Delta m_{u}}{\Delta t} \\
+  =&\frac{\text{final momentum}-\text{initial momentum}}{\Delta t} \\
+  =&\frac{-m_{u_x}-m_{u_x}}{\Delta t}=\frac{-2m_{u_x}u_x}{L}
+\end{split}
+$$
+
 <div><img src=Pictrue/IMG_20221021_102212.jpg width=20% /><div>
-<!-- 之後再寫，這邊內容有點多 -->
 
 ### Root Mean square velocity(均方根速率)
 
-* $\bar{u}^2:\text{the average of the square velocity}$
-* $u_{rms}=\sqrt{\bar{u}^2}:\text{root mean square velocity}$
+* $\bar{u}^2:\text{the average of the square velocity}$ `平均平方速率`
+* $u_{rms}=\sqrt{\bar{u}^2}:\text{root mean square velocity}$ `均方根速率`
 
 $$
 K_E=N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT \\
@@ -162,13 +176,14 @@ K_E=N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT \\
 \Rightarrow u_{rms}=\sqrt{\bar{u}^2}=\sqrt{\frac{3RT}{mN_A}}
 $$
 
-* $u_{mp}:\text{most probable velocity}$
+* $u_{mp}:\text{most probable velocity}$ `最可能速度`
   > The most probable velocity mean the velocity possessed by the greatest number of gas particle.
+  > `最可能速度是指最多氣體粒子具有的速度`
 
   $$ u_{mp}=\sqrt{\frac{2k_sT}{m}}=\sqrt{\frac{2RT}{mV_A}} $$
   >
-  > * $m$ :A gas particle mass
-  > * $k_B$ :Boltzmann's constant
+  > * $m$ :A gas particle mass `一個氣體粒子的質量`
+  > * $k_B$ :Boltzmann's constant `波茲曼常數`
   > * $k_B=1.38\times 10^{-23}$
 <!-- 待補 -->
 
@@ -179,11 +194,16 @@ $$
 ![關係圖](./Pictrue/IMG_20221021_113155.jpg)
 
 * 左圖：Low Pressure(P) to ideal gas.
+  `低壓的真實氣體更接近理想氣體`
+
 * 右圖：High Temperature(Temp.) approach to ideal gas.
+  `高壓的真實氣體更接近理想氣體`
 
 ### 凡得瓦方程式
 
 $$ (P_{obs}+a(\frac{n}{V})^2)(V-nb)=nRT $$
 
   > $(P_{obs}+a(\frac{n}{V})^2)$ :Corrected pressure(ideal as attract)
+  > `修正壓力(理想的吸引力)`
   > $(V-nb)$ :Corrected volume(ideal gas don't have volume)
+  > `修正體積(理想氣體沒有體積)`

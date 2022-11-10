@@ -111,7 +111,12 @@ $$
   \end{split}
   $$
 
-> 待補
+---
+
+### Low of conservation of energy (能量守恆定律)
+
+Energy can be converted from one form to another but can be neither created nor destroyed.
+  `能量既不能被創造也不能消滅，只能從一種形式轉變成另一種形式。`
 
 ---
 
@@ -162,6 +167,13 @@ $$
 $$
 \therefore w=-p\Delta V=-1\times (0.018-30.6)=30.5(l\times atm)
 $$
-> $1 (l\times atm)$
+> $1 (l\times atm)=101.35J$
 
-待補
+$$ \rightarrow w=30.5(l\times atm)=3091J $$
+
+$$
+\begin{split}
+  \therefore \Delta E=q+w=&40.66+3.09 \\
+  =&-37.57kJ
+\end{split}
+$$

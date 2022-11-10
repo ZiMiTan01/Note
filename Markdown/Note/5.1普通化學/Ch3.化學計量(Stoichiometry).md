@@ -10,7 +10,7 @@
 
 * 圖：原子質量質譜儀
   <div align="center"><img src=./Pictrue/IMG_20220930_094359.jpg width=70% /></div>
-<!--![原子質量光譜儀](Pictrue/IMG_20220930_094359.jpg)-->
+
 Atoms are passed into a beam of high-speed $ e^{-}\rm s $, The high-speed  $ e^{-}\rm s $ knock $ e^{-}\rm s $ off the atoms being analysed and charge them to positive ions.
 An applied electric field accelerates these ions through a magnetic field, path deflection for each ions depends on its mass. A comparison of the positions where the ions hit the detector plate gives very accurate value of their relative masses.
 `原子被打出去時會通過一個高速的電子束，當原子中電子被高速電子踢出去時，原子會變成一個正離子。外加的電場會通過磁場加速這些離子，每個離子的路徑偏轉取決於他們的質量。離子撞擊檢測器可以透過離子撞擊的位置來給出非常準確的相對質量。`
