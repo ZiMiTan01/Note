@@ -4,13 +4,16 @@
 
 ## 名詞釋義
 
-* Thermochemistry：The study of Energy and its interconversions
-  `熱力學：`.
-* Energy：The capacity to produce work or heat.
-* Kinetic Energy：The Energy of motion, Kinetic Energy $=\frac{1}{2}m$ (velocity) $^2$
-* Potential Energy：Energy due to position or composition.
 * Heat：Involves transfer of Energy between two objects.
+  `熱：涉及兩個物體之間的能量轉移。`
 * Work：A force acting over a distance.
+* Thermochemistry：The study of Energy and its interconversions.
+  `熱力學：能量及其相互轉換的研究`
+* Energy：The capacity to produce work or heat.
+  `能量：產生功或熱的能力。`
+* Kinetic Energy：The Energy of motion, Kinetic Energy $=\frac{1}{2}m$ (velocity) $^2$
+  `動能：運動的能量`
+* Potential Energy：Energy due to position or composition.
 
 <div align="center"><img src=./Pictrue/IMG_20221104_094647.jpg width=40%></div>
 
@@ -136,7 +139,7 @@ If the density of $H_2O_{(l)}$ at this temperature and pressure is $0.996 (g\tim
 > $\Delta E=q+w$
 > $q=40.66kJ$
 > $ w=?$
-
+>
 > For $w=-P\Delta V, p=1atm, \Delta V=?$
 
 1mol $H_2O=1\times 18=18g$
