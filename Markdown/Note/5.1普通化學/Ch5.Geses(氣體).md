@@ -8,7 +8,8 @@
   `托里切利表明，大氣中的空氣會施加壓力。`
 * The pressure unit is millmeters of mercury (mm-Hg) is called the "torr" in honor of Torricelli.
   `壓力單位是毫米汞柱(mm-Hg)被稱為“torr”以紀念托爾切利。`
-![大氣壓力](./Pictrue/2022-10-09-13-26-47.png)
+
+  ![大氣壓力](./Pictrue/2022-10-09-13-26-47.png)
 
 ---
 
