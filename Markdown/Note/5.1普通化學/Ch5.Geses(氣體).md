@@ -161,8 +161,8 @@ $$
 
   $$ u_{mp}=\sqrt{\frac{2k_sT}{m}}=\sqrt{\frac{2RT}{mV_A}} $$
   >
-  > $m$: A gas particle mass
-  > $k_B$: Boltzmann's constant
+  > $m$ :A gas particle mass
+  > $k_B$ :Boltzmann's constant
   > $k_B=1.38\times 10^{-23}$
 <!-- 待補 -->
 
