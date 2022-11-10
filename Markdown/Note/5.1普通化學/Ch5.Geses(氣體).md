@@ -17,12 +17,14 @@
 
 The ideal gas is the behaviour of real gas approaching at low pressures and high temperature.
 `理想氣體是真實氣體在高溫低壓下的行為。`
+
 ![理想氣體與其他氣體的比較](./Pictrue/2022-10-09-13-53-01.png)
 
 1. **Boyle's law(波以爾定律)**
    A gas that obeys Boyle's law is called an ideal gas.
    `如果有一個氣體符合波以爾定律，則那個氣體被稱作理想氣體`
-![波以爾定律示意圖](./Pictrue/2022-10-09-13-40-28.png)
+
+   ![波以爾定律示意圖](./Pictrue/2022-10-09-13-40-28.png)
 
    $$ PV=k $$
 
@@ -32,7 +34,8 @@ The ideal gas is the behaviour of real gas approaching at low pressures and high
 2. **Charles's law(查理定律)**
    The volume of a gas at constant pressure increases linearly with temperature of gas.
    `恆定壓力下的氣體體積與氣體溫度成正比。`
-![查理定律](./Pictrue/2022-10-09-14-05-12.png)
+
+   ![查理定律](./Pictrue/2022-10-09-14-05-12.png)
 
    $$ v=bT $$
 
