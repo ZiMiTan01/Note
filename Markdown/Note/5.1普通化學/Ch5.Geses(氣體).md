@@ -89,7 +89,7 @@ The mixture of $CH_4$ and $O_2$，$P_{CH_4}=0.175(atm)$，$ P_{O_2}=0.250(atm) $
 > $Sol:$
 >
 > 1. What is the mole fraction of each gas?
-> `每種氣體的莫耳分率有多少?`
+>    `每種氣體的莫耳分率有多少?`
 >
 > $$ X_{CH_4}=\frac{P_{CH_4}}{P_{total}}=\frac{0.175}{0.175+0.25}(atm)=0.412_{(atm)} $$
 >
@@ -111,9 +111,10 @@ The mixture of $CH_4$ and $O_2$，$P_{CH_4}=0.175(atm)$，$ P_{O_2}=0.250(atm) $
 
 ### 名詞釋義
 
-| 中文   | 英文    |
-| ------ | ------- |
-| 混合物 | mixture |
+| 中文   | 英文         |
+| ------ | ------------ |
+| 混合物 | mixture      |
+| 正比   | proportional |
 
 ---
 
@@ -123,17 +124,16 @@ kinetic molecular theary is a simple model to explain the properties of an ideal
 `分子動力學是解釋理想氣體性質的簡單模型。`
 
 * The particles are so small compared with the distamces between them that the volume of the individual particles can be assumed to be negligible.
-`與它們之間的距離相比，這些粒子是如此之小，以至於可以假設單個粒子的體積可以忽略不計。`
+  `與它們之間的距離相比，這些粒子是如此之小，以至於可以假設單個粒子的體積可以忽略不計。`
 
 * The particles are in constant motion. The collisions of the particles with the walls of the container are the cause of the pressure exerted by the gas.
-`粒子的運動持續不斷，氣體分子不斷撞擊器壁是造成氣壓的原因。`
+  `粒子的運動持續不斷，氣體分子不斷撞擊器壁是造成氣壓的原因。`
 
 * The particles are assumed to neither attract nor repel each other.
-`粒子被假設不吸引也不排斥`
+  `粒子被假設不吸引也不排斥`
 
 * The average kinetic energy of collection of gas particles is assumed to be directly proportional to the kelvin temperature of the gas.
-`氣體粒子的擁有的平均動能與氣體的克氏溫度成正比`
-`proportional:正比`
+  `氣體粒子的擁有的平均動能與氣體的克氏溫度成正比`
 
 $$ \therefore E_k\propto T $$
 
@@ -179,5 +179,5 @@ $$
 
 $$ (P_{obs}+a(\frac{n}{V})^2)(V-nb)=nRT $$
 
-  > $ (P_{obs}+a(\frac{n}{V})^2) $: Corrected pressure(ideal as attract)
-  > $ (V-nb) $: Corrected volume(ideal gas don't have volume)
+  > $(P_{obs}+a(\frac{n}{V})^2)$ :Corrected pressure(ideal as attract)
+  > $(V-nb)$ :Corrected volume(ideal gas don't have volume)
