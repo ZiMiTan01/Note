@@ -37,7 +37,7 @@ The ideal gas is the behaviour of real gas approaching at low pressures and high
 
    > T: kelvin temperature `克耳文溫標`
    > b: constant `恆定值`
-   > $P_1$、n is constant `壓力和莫爾數為恆定值`
+   > $P_1$ 、n is constant `壓力和莫爾數為恆定值`
 
 3. **Avogadro's law(亞佛加厥定律)**
    Equal volumes of gases at the same temperature and pressure contain the same number of "particles"
@@ -47,7 +47,7 @@ The ideal gas is the behaviour of real gas approaching at low pressures and high
 
    > v: volume `體積`
    > n: mole `莫爾數`
-   > $ T_1 $、P is constant `溫度和壓力為恆定值`
+   > $T_1$ 、P is constant `溫度和壓力為恆定值`
 
 ---
 
@@ -57,7 +57,8 @@ $$ PV=nRT $$
 
 ### Standard Temperature and Pressure(標準狀態STP)
 
-在STP下，$ T=0^{\circ}C=273.15K $，$ P=1_{(atm)} $，$ V=1_{(L)} $
+在STP下， $T=0^{\circ}C=273.15K$ ， $P=1_{(atm)}$ ， $V=1_{(L)}$
+
 $$ \frac{1\times 0.082 \times 273}{1}=22.42_{(L)} $$
 
 ---
@@ -76,18 +77,25 @@ $$ X_1=\frac{n_1}{n_{total}}=\frac{n_1}{n_1+n_2+n_3...} $$
 #### 例題
 
 The mixture of $CH_4$ and $O_2$，$P_{CH_4}=0.175(atm)$，$ P_{O_2}=0.250(atm) $
+`有一CH4和O2的混合物，甲烷的壓力=0.175(atm)，氧氣的壓力=0.250(atm)`
 
 1. What is the mole fraction of each gas.
-2. If the mixture occupies $10.5(L)$ at $65^{\circ}C$, calculato $n_{total}$.
+   `每種氣體的莫耳分率是多少。`
+2. If the mixture occupies $10.5(L)$ at $65^{\circ}C$, calculato $n_{total}$ .
+   `如果混合物在65度下佔10.5(L)，計算總莫耳數。`
 3. Calculato the number of grams of each gas in the mixture.
+   `計算混合物中每種氣體的克數`
 
-> $ Sol: $
+> $Sol:$
 >
-> 1. What is the mole fraction of each gas.
+> 1. What is the mole fraction of each gas?
+> `每種氣體的莫耳分率有多少?`
 >
-> $$ X_{CH_4}=\frac{P_{CH_4}}{P_{total}}=\frac{0.175}{0.175+0.25}(atm)=0.412_{(atm)} $$ $$ X_{O_2}=1-X_{CH_4}=0.588_{(atm)} $$
+> $$ X_{CH_4}=\frac{P_{CH_4}}{P_{total}}=\frac{0.175}{0.175+0.25}(atm)=0.412_{(atm)} $$
 >
-> 2. If the mixture occupies $ 10.5(L) $ at $ 65^{\circ}C $, calculato $ n_{total} $.
+> $$ X_{O_2}=1-X_{CH_4}=0.588_{(atm)} $$
+>
+> 2. If the mixture occupies $10.5(L)$ at $65^{\circ}C$, calculato $n_{total}$.
 >
 > $$ n_{total}=\frac{P_{total}V}{RT}=\frac{0.425\times 10.5}{0.082\times 338}=0.161_{(mol)} $$
 >
@@ -100,6 +108,12 @@ The mixture of $CH_4$ and $O_2$，$P_{CH_4}=0.175(atm)$，$ P_{O_2}=0.250(atm) $
 > $$ n_{O_2}=0.588\times 0.161=9.46\times {10^{-2}}_{(mol)} $$
 >
 > $$ \therefore n_{O_2}\times 32=3.02_{(g)} $$
+
+### 名詞釋義
+
+| 中文   | 英文    |
+| ------ | ------- |
+| 混合物 | mixture |
 
 ---
 
@@ -142,7 +156,7 @@ K_E=N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT \\
 \Rightarrow u_{rms}=\sqrt{\bar{u}^2}=\sqrt{\frac{3RT}{mN_A}}
 $$
 
-* $ u_{mp}:\text{most probable velocity} $
+* $u_{mp}:\text{most probable velocity}$
   > The most probable velocity mean the velocity possessed by the greatest number of gas particle.
 
   $$ u_{mp}=\sqrt{\frac{2k_sT}{m}}=\sqrt{\frac{2RT}{mV_A}} $$
