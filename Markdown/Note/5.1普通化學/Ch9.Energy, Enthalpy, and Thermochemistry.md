@@ -173,7 +173,30 @@ $$ \rightarrow w=30.5(l\times atm)=3091J $$
 
 $$
 \begin{split}
-  \therefore \Delta E=q+w=&40.66+3.09 \\
+  \therefore \Delta E=q+w=&-40.66+3.09 \\
   =&-37.57kJ
 \end{split}
 $$
+
+---
+
+## For Calorimetry at constant P
+
+Calorimetry is the experimental technigue used to determine the heat exchange (g) associated with a reaction.
+
+$$ \Delta H=g_p $$
+
+$$
+\begin{split}
+  \text{heat capacity}=&\frac{\text{heat absorbed}}{\text{imcrease in temperature}} \\
+  =&J/^{\circ}C
+\end{split}
+$$
+
+---
+
+<!--這邊有段有缺-->
+
+---
+
+For $NaOH=\frac{10}{40}$
