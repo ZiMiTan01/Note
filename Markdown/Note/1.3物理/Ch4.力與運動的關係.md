@@ -49,3 +49,22 @@
 ## 4.3 力(Forces)
 
 ---
+
+## 4.5 使用牛頓第二運動定律
+
+* **Drawimg a Free-Body Diagram**
+  Drawimg a free-body diagram is the key to solving problems with Newton's Laws.
+  1. Identify object of interest and all forces on it.
+  2. Represent the object as a dot.
+  3. Draw the vectors for all forces actingon the object, with the vectors on a dot.
+
+---
+
+### Pushing Books
+
+2 books lie on frictionless horizontal surface. You push with force $F$ on books of mass $m_1$ . which in turn on book of mass $m_2$ . What force does the $2^{nd}$ book exert on the $1^{st}$ ?
+
+<div align="center"><img src=./Picture/IMG20221121164926.jpg width=60%></div>
+
+---
+
