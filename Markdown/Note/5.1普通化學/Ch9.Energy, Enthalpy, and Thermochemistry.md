@@ -135,7 +135,7 @@ $$ \therefore \Delta E_{Total}=107+(-37)=70J $$
 
 ---
 
-### 例題
+### 例題1
 
 One mole $H_2O$ at $1atm$ and $100^{\circ}C$ occupies a volume of $30.6L$ . When one mole of $H_2O_{(l)}$ at $1atm$ and $100^{\circ}C$ , 40.66kJ heat is released.
 If the density of $H_2O_{(l)}$ at this temperature and pressure is $0.996 (g\times cm^{-3})$ , calculate $\Delta E$ For the condensation of 1 mol $H_2O$ at $1atm$ and $100^{\circ}C$
@@ -193,10 +193,41 @@ $$
 \end{split}
 $$
 
+$\text{specific heat capacity}=\text{heat capacity per gram of substance}({J}/{^{\circ}C\times g})$
+$\text{wolar heat capacity}=\text{heat capacity per mole of substance}(J/^{\circ}C\times mol)$
+
+$$
+\begin{split}
+  q_p=&4.18(\frac{J}{^{\circ}C \times g})\times (27.4-25)\times 1050 \\
+  =&10533.6J=10.53kJ \\
+  =&\Delta H
+\end{split}
+$$
+
+<div><img src=./Pictrue/螢幕快照_2022-11-25_11-49-21.png></div>
+
 ---
 
-<!--這邊有段有缺-->
+### 例題2
+
+$$ NaOH_{(s)}\to NaOH_{(aq)} \quad \Delta H=? $$
+
+If 10g solid $NaOH$ powers is added to $1L$ $H_2O$ $(C=4.18 \frac{J}{^{\circ}C \times g})$ at $25^{\circ}$ in a constant pressure calorimetry, What will br enthalpy change of $NaOH$ per mole?
+$(\text{final solution density}=1.05\frac{g}{mL})$
+
+$\text{solution mass}=1 L \times 1050\frac{g}{L}=1050g$
+For $NaOH=\frac{10}{40}g=0.25mole$
+
+$$
+\therefore \Delta H=\frac{10.53 kJ}{0.25mole}=42.1\frac{kJ}{mol}
+$$
+
+For temperature to $27.4^{\circ}C$ ,Exothermic reaction:
+
+$$
+\Delta H<0 \to 42.1(\frac{kJ}{mol})
+$$
 
 ---
 
-For $NaOH=\frac{10}{40}$
+
