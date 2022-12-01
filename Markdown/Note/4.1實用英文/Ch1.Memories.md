@@ -4,21 +4,21 @@
 
 ## 單字及片語
 
-* **Reunion(團聚)**$ _{()} $
+* **Reunion(團聚)** $ _{()} $
   We are have family Reunion next weeked.
 
-* **great(極好的)**$ _{()} $
+* **great(極好的)** $ _{()} $
   * 近義詞：fantasic, Fabulous, Terrific, amazing, awesome
   * It's great to see everyone again.
-* **blonde(金髮)**$_{(adj.)} $
+* **blonde(金髮)** $_{(adj.)} $
 * **used to**
   * Used to +V =The past habit(過去式)
     * 例：She used to sit next to me in class.
   * Be used to+Ving =The Present habit(現在式)
-* **Date(約會)**$_{(V)}$
+* **Date(約會)** $_{(V)}$
   * 與 appointment 的差別在於appointment為工作性質的、較為正式的用法
   * 近義詞：rendezvous(祕密約會)
-* **wonder(想知道)**$ _{(V)} $
+* **wonder(想知道)** $ _{(V)} $
 * **weird(怪異的)**
   * 近義詞：odd,
 * Referee(裁判)
@@ -31,7 +31,7 @@
 * **Forevar(永遠)**
   * 近義詞：permanent
 * **film(電影)**
-* **console(操作台、控制台)**$ _{(n)} $
+* **console(操作台、控制台)** $ _{(n)} $
 * **bashful(害羞的)**
   * 近義詞：coy(女用)
 * **chore(雜事、家事)**
