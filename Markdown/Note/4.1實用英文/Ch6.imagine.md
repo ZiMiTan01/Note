@@ -1,4 +1,4 @@
-# .
+# Ch6.imagine
 
 ---
 
@@ -11,4 +11,3 @@
 ---
 
 * But what do you will you do if you don't like it?
-* 
