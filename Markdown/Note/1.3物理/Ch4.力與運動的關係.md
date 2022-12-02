@@ -19,7 +19,7 @@
 * The second law tells quantitatively how force causes changes in an object's "quantity of motion".
   * Newton defoined "quantity of motion", now called momentum, as the product of an object's mass and velocity:
 
-    $$ \vec{p}=m\vec{v} $$
+    $$\vec{p}=m\vec{v}$$
 
   * Newton's second law equates the rate of change of momentum to the net force on an object:
   `牛頓第二定律將動量的變化視為物體上的合力`
@@ -67,4 +67,3 @@
 <div align="center"><img src=./Picture/IMG20221121164926.jpg width=60%></div>
 
 ---
-
