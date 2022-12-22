@@ -26,4 +26,3 @@
   * graveyard shift(大夜班)
 * wage(週薪)
   * salary(月薪)
-
