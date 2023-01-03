@@ -1,4 +1,4 @@
-# Arrhenius eqation
+# Arrhenius equation
 
 ---
 
