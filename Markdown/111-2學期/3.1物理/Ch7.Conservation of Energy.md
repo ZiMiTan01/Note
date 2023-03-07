@@ -11,8 +11,5 @@
 $$\oint \vec{F} \cdot d \vec{r}=0$$
 
 * Nonconservative Force:
-  
-  
 
 ---
-
