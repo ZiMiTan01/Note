@@ -5,7 +5,7 @@
 ## 原子(Atom)
 
 * 概論
-  Nucleus contain protons and neutrons protons have a positive charge equel in magnitude to the electron's ($ e^{-}$ 's) negative charge. Neutrons have the same mass as a protons but no charge.
+  Nucleus contain protons and neutrons protons have a positive charge equel in magnitude to the electron's ($e^{-}$ 's) negative charge. Neutrons have the same mass as a protons but no charge.
 `原子核內包含質子和中子，質子具有正電荷，其大小與電子的負電荷相等。中子擁有和質子差不多的質量，但中子不帶電。`
 * 註釋
   | 單字 | 中文 |
@@ -25,12 +25,12 @@
 
 ## 分子(Molecules)
 
-When molecules formed the forces that hold atoms together is called chemical bond. By sharing $ e^{-} $s, these bond are called covalent bonds.
+When molecules formed the forces that hold atoms together is called chemical bond. By sharing $e^{-}$ s, these bond are called covalent bonds.
 `當分子形成將原子結合在一起的力時，這個力稱作化學鍵；而通過共享電子而形成的鍵結，稱為共價鍵`
 
 * Ex: $CO_2$ (Chemical formula)
-  $$ O=C=O $$
-* Ex: $ H_2O $<div align="center"> <img src=Pictrue/Water-2D-labelled.png width=25% /><div>
+  $$O=C=O$$
+* Ex: $H_2O$<div align="center"> <img src=Pictrue/Water-2D-labelled.png width=25% /><div>
 
 * 註釋
   | 單字 | 中文 |
@@ -51,26 +51,26 @@ $$ Na\to Na^++e^- $$ $$ Cl+e^-\to Cl^- $$
 
 * Ionic compound
 
-  * $ NaCl $ and $ KI $ _(type A)_
+  * $NaCl$ and $KI$ _(type A)_
 
     1. The cation is always named first, and the anion second.
         `陽離子永遠是第一個被命名的，再來是陰離子`
 
     2. A ==monatomic== cation takes its name form the name of the element.<!-- Monatomic由 Mono+Atomic 組成，其中 mono 表"單一個"， atomic 表"原子的" -->
     `單原子陽離子的命名與其元素名稱一致`
-        >Ex: $ Na^+ $ is sodium
+        >Ex: $Na^+$ is sodium
     3. A monatomic anion is named by taking the first part of the element name and adding "ide"
     `單原子陰離子是由其元素名稱去掉字尾並添加-ide來命名`
-        >Ex: $Cl^- $ is Chloride. but $Cl$ is Chlorine
+        >Ex: $Cl^-$ is Chloride. but $Cl$ is Chlorine
 
-  * $ FeCl_2 $ and $ FeCl_3 $ _(type B)_
+  * $FeCl_2$ and $FeCl_3$ _(type B)_
     When the metal form only two ions. The ion with the higher charge has a name ending in **-ic**, and the one with the lower charge has a name ending in **-ous**.
     `當金屬只會形成兩種離子時，較高電荷的離子的名稱以-ic結尾，較低電荷的離子的名稱以-ous結尾。`
-      >$ FeCl_3 $: Ferric chloride ($ Fe^{3+} $)
-      >$ FeCl_2 $: Ferrous chloride ($ Fe^{2+} $)
-  * $ SO^{2-}_3 $ and $ SO^{2-}_4 $ (oxyanions)
+      >$FeCl_3$: Ferric chloride ($Fe^{3+}$)
+      >$FeCl_2$: Ferrous chloride ($Fe^{2+}$)
+  * $SO^{2-}_3$ and $SO^{2-}_4$ (oxyanions)
     Smaller number of oxygen atom: -ate
-  * $ N_2O $ and $ NO $ (contain two nonmetals、covalent bond)
+  * $N_2O$ and $NO$ (contain two nonmetals、covalent bond)
     1. The first element in formula is named using the full element name.
       `第一個出現在化學式中的元素需要優先使用元素全名命名`
     2. The second element is named as if it were an anion.
