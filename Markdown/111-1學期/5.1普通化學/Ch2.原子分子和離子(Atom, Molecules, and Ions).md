@@ -70,6 +70,7 @@ $$ Na\to Na^++e^- $$ $$ Cl+e^-\to Cl^- $$
       >$FeCl_2$: Ferrous chloride ($Fe^{2+}$)
   * $SO^{2-}_3$ and $SO^{2-}_4$ (oxyanions)
     Smaller number of oxygen atom: -ate
+    larger number of oxygen atom: -ite
   * $N_2O$ and $NO$ (contain two nonmetals、covalent bond)
     1. The first element in formula is named using the full element name.
       `第一個出現在化學式中的元素需要優先使用元素全名命名`
