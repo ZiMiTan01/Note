@@ -8,11 +8,11 @@
   Nucleus contain protons and neutrons protons have a positive charge equel in magnitude to the electron's ($e^{-}$ 's) negative charge. Neutrons have the same mass as a protons but no charge.
 `原子核內包含質子和中子，質子具有正電荷，其大小與電子的負電荷相等。中子擁有和質子差不多的質量，但中子不帶電。`
 * 註釋
-  | 單字 | 中文 |
-  | --- | --- |
-  | Nucleus | 原子核 |
-  | Protons | 質子 |
-  | Neutrons | 中子 |
+  | 單字     | 中文   |
+  | -------- | ------ |
+  | Nucleus  | 原子核 |
+  | Protons  | 質子   |
+  | Neutrons | 中子   |
   | Positive | 正電的 |
   | Negative | 負電的 |
 
@@ -33,9 +33,9 @@ When molecules formed the forces that hold atoms together is called chemical bon
 * Ex: $H_2O$<div align="center"> <img src=Pictrue/Water-2D-labelled.png width=25% /><div>
 
 * 註釋
-  | 單字 | 中文 |
-  | --- | --- |
-  | Chemical bond | 化學鍵 |
+  | 單字           | 中文   |
+  | -------------- | ------ |
+  | Chemical bond  | 化學鍵 |
   | Cavalent bonds | 共價鍵 |
 
 ---
@@ -78,19 +78,21 @@ $$ Na\to Na^++e^- $$ $$ Cl+e^-\to Cl^- $$
       `第一個出現在化學式中的元素需要優先使用元素全名命名`
     2. The second element is named as if it were an anion.
       `第二個元素的命名需要讓他看起來像個離子`
-    3. **Profixes are used to denote the number of atom present.**
+    3. **Prefixes are used to denote the number of atom present.**
       `前綴被用來描述所擁有的原子數`
        * 前綴與原子數目對照表
-         | 前綴 | 原子數目 |
-         | --- | --- |
-         | Mono | 1 atom |
-         | Di | 2 atoms |
-         | tri | 3 atoms |
-         | tetra | 4 atoms |
-         | penta | 5 atoms |
-         | hexa | 6 atoms |
-         | hepta | 7 atoms |
-         | octa | 8 atoms |
+         | 前綴  | 原子數目 |
+         | ----- | -------- |
+         | Mono  | 1 atom   |
+         | Di    | 2 atoms  |
+         | tri   | 3 atoms  |
+         | tetra | 4 atoms  |
+         | penta | 5 atoms  |
+         | hexa  | 6 atoms  |
+         | hepta | 7 atoms  |
+         | octa  | 8 atoms  |
+         | nona  | 9 atoms  |
+         | deca  | 10 atoms |
     4. The prefix "mono" is never used for naming the first element.
       `mono從不用來命名第一個元素`
         >$N_2O$: Dinitrogen monoxide
