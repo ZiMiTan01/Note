@@ -47,7 +47,9 @@ $$ Na\to Na^++e^- $$ $$ Cl+e^-\to Cl^- $$
 
 ---
 
-## 化合物的命名(Noming Simple compd)<!-- Compd是Compouds的國際縮寫 -->
+## 化合物的命名(Noming Simple compd)
+
+> Compd是Compouds的國際縮寫
 
 * Ionic compound
 
