@@ -33,4 +33,3 @@ An applied electric field accelerates these ions through a magnetic field, path 
   `化學變化涉及一種或多種物質中原子的重組，該過程由反應物和產物的化學方程式表示。`
 
 >Ex: $$ HCl_{(aq)}+NaHCO_{3(s)}\longrightarrow CO_{2(g)} +H_2O_{(l)}+NaCl_{(aq)} $$
-
