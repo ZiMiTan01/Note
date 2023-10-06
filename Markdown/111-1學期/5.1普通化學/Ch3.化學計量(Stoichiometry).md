@@ -22,7 +22,7 @@ An applied electric field accelerates these ions through a magnetic field, path 
   * 1 mol cpds(compounds) contains $=6.02\times 10^{23} $
   >Ex:
   >$$1_{(mol)} CH_{4}=1_{(mol)}C+4_{(mol)}H=16_{(g)}$$
-$$\frac{^{13}C}{^{12}C}$$
+$$\frac{^{13}C}{^{12}C}=1.0836129$$
 
 ---
 
