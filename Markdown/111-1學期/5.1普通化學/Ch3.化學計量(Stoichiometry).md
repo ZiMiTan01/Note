@@ -40,7 +40,11 @@ $$^{13}C=12\times 1.0836129$$
 
 $NaHCO_3$ and $Mg(OH)_2$ are used as autacid for neutratizing $HCl$ in stomach which is the most effective autacid per gram?
 
-$$NaHCO_{3(s)}+HCl_{(aq)}\longrightarrow NaCl_{(aq)}+H_2O_{(l)}+CO_{2(g)}$$
+$$
+NaHCO_{3(s)}+HCl_{(aq)}\longrightarrow NaCl_{(aq)}+H_2O_{(l)}+CO_{2(g)}
+$$
 
-$$Mg(OH)_{2(s)}+HCl_{(aq)}\longrightarrow H_2O_{(l)}+MgCl_{2(aq)}$$
+$$
+Mg(OH)_{2(s)}+HCl_{(aq)}\longrightarrow H_2O_{(l)}+MgCl_{2(aq)}
+$$
 
