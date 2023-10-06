@@ -11,7 +11,7 @@
 * 圖：原子質量質譜儀
   <div align="center"><img src=./Pictrue/IMG_20220930_094359.jpg width=70% /></div>
 
-Atoms are passed into a beam of high-speed $ e^{-}\rm s $, The high-speed  $ e^{-}\rm s $ knock $ e^{-}\rm s $ off the atoms being analysed and charge them to positive ions.
+Atoms are passed into a beam of high-speed $e^{-}\rm s$, The high-speed  $e^{-}\rm s$ knock $e^{-}\rm s$ off the atoms being analysed and charge them to positive ions.
 An applied electric field accelerates these ions through a magnetic field, path deflection for each ions depends on its mass. A comparison of the positions where the ions hit the detector plate gives very accurate value of their relative masses.
 `原子被打出去時會通過一個高速的電子束，當原子中電子被高速電子踢出去時，原子會變成一個正離子。外加的電場會通過磁場加速這些離子，每個離子的路徑偏轉取決於他們的質量。離子撞擊檢測器可以透過離子撞擊的位置來給出非常準確的相對質量。`
 
@@ -21,8 +21,8 @@ An applied electric field accelerates these ions through a magnetic field, path 
   * 1 mol $^{12}C = 12g$
   * 1 mol cpds(compounds) contains $=6.02\times 10^{23} $
   >Ex:
-  >$$ 1_{(mol)} CH_{4}=1_{(mol)}C+4_{(mol)}H=16_{(g)} $$
-<!-- $$ \frac{^{13}C}{^{12}C} $$ -->
+  >$$1_{(mol)} CH_{4}=1_{(mol)}C+4_{(mol)}H=16_{(g)}$$
+$$\frac{^{13}C}{^{12}C}$$
 
 ---
 
@@ -32,4 +32,4 @@ An applied electric field accelerates these ions through a magnetic field, path 
   A chemical change involves reorganization of the atoms in one or more substances. This process is represented by a Chemical Equations with the reactants and products.
   `化學變化涉及一種或多種物質中原子的重組，該過程由反應物和產物的化學方程式表示。`
 
->Ex: $$ HCl_{(aq)}+NaHCO_{3(s)}\longrightarrow CO_{2(g)} +H_2O_{(l)}+NaCl_{(aq)} $$
+>Ex: $$HCl_{(aq)}+NaHCO_{3(s)}\longrightarrow CO_{2(g)} +H_2O_{(l)}+NaCl_{(aq)}$$
