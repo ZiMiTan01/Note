@@ -43,5 +43,5 @@ $NaHCO_3$ and $Mg(OH)_2$ are used as autacid for neutratizing $HCl$ in stomach w
 $$NaHCO_{3(s)}+HCl_{(aq)}\longrightarrow NaCl_{(aq)}+H_2O_{(l)}+CO_{2(g)}
 $$
 
-$$Mg(OH)_{2(s)}+HCl_{(aq)}\longrightarrow H_2O_{(l)}+MgCl_{2(aq)}$$
+$$Mg(OH)_{2(s)}+ HCl_{(aq)}\longrightarrow H_2O_{(l)}+ MgCl_{2(aq)}$$
 
