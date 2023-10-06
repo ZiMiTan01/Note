@@ -35,3 +35,12 @@ $$^{13}C=12\times 1.0836129$$
   `化學變化涉及一種或多種物質中原子的重組，該過程由反應物和產物的化學方程式表示。`
 
 >Ex: $$HCl_{(aq)}+NaHCO_{3(s)}\longrightarrow CO_{2(g)} +H_2O_{(l)}+NaCl_{(aq)}$$
+
+### 例題
+
+$NaHCO_3$ and $Mg(OH)_2$ are used as autacid for neutratizing $HCl$ in stomach which is the most effective autacid per gram?
+
+$$NaHCO_{3(s)}+HCl_{(aq)}/to NaCl_{(aq)}+H_2O_{(l)}+CO_{2(g)}$$
+
+$$Mg(OH)_{2(s)}+HCl_{(aq)}/to H_2O_{(l)}+MgCl_{2(aq)}$$
+
