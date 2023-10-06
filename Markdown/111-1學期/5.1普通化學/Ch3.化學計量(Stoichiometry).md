@@ -45,3 +45,4 @@ $$
 
 $$Mg(OH)_{2(s)}+ HCl_{(aq)}\longrightarrow H_2O_{(l)}+ MgCl_{2(aq)}$$
 
+硫銅鐵例題
