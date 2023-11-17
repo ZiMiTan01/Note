@@ -33,9 +33,6 @@
 
 ## Chemical energy
 
-* Exothermic: energy flows out of the system.
-`放熱：能量流出系統。`
-
 * system is the part of the universe on which we focuse.
   > * surrounding: everything else in the universe.
   > * system: reactants and products of the reaction.
@@ -45,7 +42,7 @@ For
 $$ CH_4+2O_{2(g)}\rightarrow CO_{2(g)}+2H_2O_{(g)}+Energy_{(heat)} $$
 
 * system：reactions and products of the the reaction,
-* surrounding: The reaction container, the room, and everything else other than the reactants and products. 
+* surrounding: The reaction container, the room, and everything else other than the reactants and products.
 
 <div align="center"><img src=./Pictrue/IMG_20221104_103156.jpg width=70%></div>
 
@@ -54,12 +51,23 @@ $$ CH_4+2O_{2(g)}\rightarrow CO_{2(g)}+2H_2O_{(g)}+Energy_{(heat)} $$
   白字：The energy gained by the surroundings must be equal to the energy lost by the system.
 `外界獲得的能量必須等於系統損失的能量。`
 
+### Low of conservation of energy (能量守恆定律)
+
+Energy can be converted from one form to another but can be neither created nor destroyed.
+  `能量既不能被創造也不能消滅，只能從一種形式轉變成另一種形式。`
+
+---
+
+### Exothermic and Endothermic
+
 In any Exothermic reaction, the Potential energy stored in the chemical bands is being converted to thermal energy via heat.
 
 $$ PE_{2O_2+CH_4}-PE_{2H_2O+CO_2}=heat $$
 
 * Endothermic: heat flows into a system.
 `吸熱：能量流進系統裡面`
+* Exothermic: energy flows out of the system.
+`放熱：能量流出系統。`
 
 <div align="center"><img src=./Pictrue/IMG20221104105828.jpg width =50%></div>
 
@@ -71,7 +79,8 @@ $$
 PE_{N_2+O_2}+\text{heat energy}=PE_{2NO}
 $$
 
-* First law of Thermodynamics
+### First law of Thermodynamics
+
   The energy of the universe is constant.
 
   $$ \Delta E=q+w $$
@@ -109,31 +118,29 @@ $$
   \end{split}
   $$
 
----
-
-### Low of conservation of energy (能量守恆定律)
-
-Energy can be converted from one form to another but can be neither created nor destroyed.
-  `能量既不能被創造也不能消滅，只能從一種形式轉變成另一種形式。`
+If expanding gas or volume $\Rightarrow$ system work on surrounding $\Rightarrow$ $W=-P\Delta V$
 
 ---
 
-> 例題23待補
+### 例題23
 
----
+* A system undergoes a proces consisting of the following two steps, Calculate $\Delta E$ for the overall process.
+  >
+  > 1. The system absorbs 72J of heat while 35J of work is done on it.
+  > 2. The system absorbs 35J of heat while performing 72J of work.
 
-$$ \Delta E=q+w $$
+* Ans:
 
-> step:
->
-> 1. $q=72, w=35\Rightarrow \Delta E_1=35+72=107J$
-> 2. $q=35, w=-72\Rightarrow \Delta E_2=35-72=-37J$
+  $$ \Delta E=q+w $$
+
+  > 1. $q=72, w=35\Rightarrow \Delta E_1=35+72=107J$
+  > 2. $q=35, w=-72\Rightarrow \Delta E_2=35-72=-37J$
 
 $$ \therefore \Delta E_{Total}=107+(-37)=70J $$
 
 ---
 
-### 例題1
+### 例題27
 
 One mole $H_2O$ at $1atm$ and $100^{\circ}C$ occupies a volume of $30.6L$ . When one mole of $H_2O_{(l)}$ at $1atm$ and $100^{\circ}C$ , 40.66kJ heat is released.
 If the density of $H_2O_{(l)}$ at this temperature and pressure is $0.996 (g\times cm^{-3})$ , calculate $\Delta E$ For the condensation of 1 mol $H_2O$ at $1atm$ and $100^{\circ}C$
@@ -180,7 +187,7 @@ $$
 
 ## For Calorimetry at constant P
 
-Calorimetry is the experimental technigue used to determine the heat exchange (g) associated with a reaction.
+Calorimetry is the experimental technique used to determine the heat exchange (g) associated with a reaction.
 
 $$ \Delta H=g_p $$
 
@@ -227,5 +234,3 @@ $$
 $$
 
 ---
-
-
