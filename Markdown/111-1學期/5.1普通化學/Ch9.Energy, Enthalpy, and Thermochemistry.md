@@ -18,21 +18,16 @@
 <div align="center"><img src=./Pictrue/IMG_20221104_094647.jpg width=40%></div>
 
 * Initial Potential Energy
+  $$ A>B $$
+    > 1. when releace, $PE_A$ transfer to $KE_A$
+    > 2. when A ball strike B. Ball,  $KE_A$ transfer $KE_B$
+    > 3. $KE_B$ transfer to $PE_B$
+    > Final:
+    >
+    > $$ PE: B>A $$
 
-$$ A>B $$
-
-> 1. when releace, $PE_A$ transfer to $KE_A$
-> 2. when A ball strike B. Ball,  $KE_A$ transfer $KE_B$
-> 3. $KE_B$ transfer to $PE_B$
-> Final:
->
-> $$ PE: B>A $$
-
----
-
-## Ctate function
-
-A property that is indeperdent of pathway. It doesn't matter how you get there the difference in the velue is the same. Energy is a state function, but work and heat are not.
+* State function
+  A property that is indeperdent of pathway. It doesn't matter how you get there the difference in the value is the same. Energy is a state function, but work and heat are not.
 
 ---
 
@@ -40,14 +35,17 @@ A property that is indeperdent of pathway. It doesn't matter how you get there t
 
 * Exothermic: energy flows out of the system.
 `放熱：能量流出系統。`
-  system is the part of the universe on which we focuse.
-  * surrounding: everything else in the universe.
-  * system: reactants and products of the reaction.
-  For
 
-  $$ CH_4+2O_{2(g)}\rightarrow CO_{2(g)}+2H_2O_{(g)}+Energy_{(heat)} $$
+* system is the part of the universe on which we focuse.
+  > * surrounding: everything else in the universe.
+  > * system: reactants and products of the reaction.
 
-  * surrounding: The reaction container, the room, and everything else other than the reactants and products.
+For
+
+$$ CH_4+2O_{2(g)}\rightarrow CO_{2(g)}+2H_2O_{(g)}+Energy_{(heat)} $$
+
+* system：reactions and products of the the reaction,
+* surrounding: The reaction container, the room, and everything else other than the reactants and products. 
 
 <div align="center"><img src=./Pictrue/IMG_20221104_103156.jpg width=70%></div>
 
@@ -55,8 +53,8 @@ A property that is indeperdent of pathway. It doesn't matter how you get there t
 `釋放到外界的能量`
   白字：The energy gained by the surroundings must be equal to the energy lost by the system.
 `外界獲得的能量必須等於系統損失的能量。`
-<!--這邊漏一句-->
-  In any Exothermic reaction, the Potential energy stored in the chemical bands is being converted to thermal energy ria heat.
+
+In any Exothermic reaction, the Potential energy stored in the chemical bands is being converted to thermal energy via heat.
 
 $$ PE_{2O_2+CH_4}-PE_{2H_2O+CO_2}=heat $$
 
