@@ -19,18 +19,21 @@ k=\frac{{[C]}^l{[D]}^m}{{[A]}^j{[B]}^k}
 $$
 
 * For n、x
+
 $$
 jA+kB\rightleftharpoons lC+mD \\
 k'=\frac{{[C]}^{nl}{[D]}^{nm}}{{[A]}^{nj}{[B]}^{nk}}
 $$
 
 * For reaction is reversed
+
 $$
 lC+mD\rightleftharpoons jA+kB \\
 k''=\frac{{[A]}^j{[B]}^k}{{[C]}^l{[D]}^m}=\frac{1}{k}
 $$
 
 * For gas reaction(ideal gas)
+
 $$
 \begin{split}
   K_p=&\frac{{P_c}^l{P_D}^m}{{P_A}^j{P_B}^k} \\
@@ -47,6 +50,7 @@ $$
   > $$
 
 * For Real gas
+
 $$
 K_p=\frac{{(a_c)}^l{(a_D)}^m}{{(a_n)}^j{(a_B)}^k} \\
 a=Activity=\frac{P_i}{P_{reference}}
@@ -57,10 +61,11 @@ $$
 
 * Heterogeneous Equilibrium
   Many equilibrium involve more them one phese are called.
-$$
-CaCO_{3(s)}\rightleftharpoons CaO_{(s)}+CO_{2(g)} \\
-k=\frac{{[CO_2]}{[CaO]}}{[CaCO_3]}={[CO_2]}
-$$
+
+  $$
+  CaCO_{3(s)}\rightleftharpoons CaO_{(s)}+CO_{2(g)} \\
+  k=\frac{{[CO_2]}{[CaO]}}{[CaCO_3]}={[CO_2]}
+  $$
 <!-- 待補 -->
 
 ---
