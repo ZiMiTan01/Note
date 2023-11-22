@@ -185,6 +185,87 @@ $$
 
 ---
 
+## Enthalpy
+
+$$H=E+PV$$
+> $H$ ：Enthalpy `焓`
+> $E$ ：internal energy
+> $P$ ：system pressure
+> $V$ ：system volume
+>> $E$ , $H$ , $P$ , $V$ are all state functions.
+
+* For Thermodynamics $1^{st}$ law, $\Delta E=q+W$, If $q_p$ is the heat at constant pressure, than:
+  >
+  > $$
+  > \begin{split}
+      > \Delta E&=q_p+W \\
+      > &=q_p-P\Delta V \\
+      > \therefore q_p&=\Delta E+ P\Delta V \\
+  > \end{split}
+  > $$
+
+  Now, we relate $q_p$ to the change in enthalpy:
+  `現在，我們將qp與焓的變化連結起來`
+  >
+  > $$
+  > \begin{split}
+    > H=E&+PV \\
+    > \Rightarrow&\Delta H=\Delta E+\Delta(PV) \\
+  > \end{split}
+  > $$
+
+  If $P$ is constant, than:
+  >
+  > $$
+    > \begin{split}
+      > \Delta H=\Delta& E+\Delta(PV) \\
+      > \Rightarrow&\Delta H=\Delta E+P\Delta V \\
+    > \end{split}
+  > $$
+  >
+  > $$\therefore q_p=\Delta H$$
+
+  So when $\Delta P=0$ , The change in Enthalpy of the system is equal to the energy flow as heat.
+
+* For Chemical reaction, the enthalpy change is given by the equation
+  >
+  > $$\Delta H=H_{\text{product}}-H_{\text{reaction}}$$
+
+### Thermodynamics of ideal gas
+
+* For ideal gas, $\Delta E=\dfrac{3}{2}R\Delta T$ , $P\Delta V=nR\Delta T$
+  When $P$ is constant $(\Delta P=0)$ , than
+  >
+  > $$
+    > \begin{split}
+      > E=&q_p+W \\
+      > \Rightarrow& q_p=E+P\Delta V \\
+    > \end{split}
+  > $$
+  >
+  > $$
+    > \begin{cases}
+      > \Delta E=\dfrac{3}{2}R\Delta T \\
+      > P\Delta V=nR\Delta T \\
+      > q_p=E+P\Delta V
+    > \end{cases}
+    > \Rightarrow q_p=\dfrac{3}{2}R\Delta T+nR\Delta T
+  > $$
+
+  If the ideal gas only have $1mol$ , $P$ is constant, than
+  >
+  > $$q_p=\frac{3}{2}R\Delta T+R\Delta T=\frac{5}{2}R\Delta T$$
+  >
+  > $$q_p=C_p \Delta T$$
+
+  If the ideal gas only have $1mol$ , $P$ is constant, $\Delta T=1K$ , than
+  >
+  >  $$q_p=C_p$$
+
+  So, the $C_p$ is "Heat" required to change the Temperature- $T$ of $1 \text{mol}$ of gas by $1K$ at constant Pressure- $P$.
+
+---
+
 ## For Calorimetry at constant P
 
 Calorimetry is the experimental technique used to determine the heat exchange (g) associated with a reaction.
