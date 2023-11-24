@@ -294,7 +294,7 @@ $$
 
 ---
 
-### 例題2
+### 例題
 
 $$ NaOH_{(s)}\to NaOH_{(aq)} \quad \Delta H=? $$
 
@@ -311,7 +311,7 @@ $$
 For temperature to $27.4^{\circ}C$ ,Exothermic reaction:
 
 $$
-\Delta H<0 \to 42.1(\frac{kJ}{mol})
+\Delta H<0 \to -42.1(\frac{kJ}{mol})
 $$
 
 ---
