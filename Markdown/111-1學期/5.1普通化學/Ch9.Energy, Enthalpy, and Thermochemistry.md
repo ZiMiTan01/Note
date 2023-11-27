@@ -1,4 +1,4 @@
-# Ch9.Energy, Enthalpy, and Thermochemistry
+y# Ch9.Energy, Enthalpy, and Thermochemistry
 
 ---
 
@@ -15,7 +15,7 @@
   `動能：運動的能量`
 * Potential Energy：Energy due to position or composition.
 
-<div align="center"><img src=./Pictrue/IMG_20221104_094647.jpg width=40%></div>
+<div align="center"><img src=./Pictrue/IMG_20221104_094647.jpg width=20%></div>
 
 * Initial Potential Energy
   $$ A>B $$
@@ -37,14 +37,14 @@
   > * surrounding: everything else in the universe.
   > * system: reactants and products of the reaction.
 
-For
+* For
 
-$$ CH_4+2O_{2(g)}\rightarrow CO_{2(g)}+2H_2O_{(g)}+Energy_{(heat)} $$
+  $$ CH_4+2O_{2(g)}\rightarrow CO_{2(g)}+2H_2O_{(g)}+Energy_{(heat)} $$
 
-* system：reactions and products of the the reaction,
-* surrounding: The reaction container, the room, and everything else other than the reactants and products.
+  > * system：reactions and products of the the reaction,
+  > * surrounding: The reaction container, the room, and everything else other than the reactants and products.
 
-<div align="center"><img src=./Pictrue/IMG_20221104_103156.jpg width=70%></div>
+  <div align="center"><img src=./Pictrue/IMG_20221104_103156.jpg width=50%></div>
 
   黃字：Energy released into surroundings surrounding
 `釋放到外界的能量`
@@ -69,7 +69,7 @@ $$ PE_{2O_2+CH_4}-PE_{2H_2O+CO_2}=heat $$
 * Exothermic: energy flows out of the system.
 `放熱：能量流出系統。`
 
-<div align="center"><img src=./Pictrue/IMG20221104105828.jpg width =50%></div>
+<div align="center"><img src=./Pictrue/IMG20221104105828.jpg width =40%></div>
 
 $$
 N_{2(g)}+O_{2(g)}+\text{heat energy}\to 2NO
@@ -90,15 +90,15 @@ $$
   > w: Work
   > Internal energy(E): the sum of the Kinetic and Potential energies in the system.
 
-  <div align="center"><img src=./Pictrue/IMG_20221104_110917.jpg width=50%></div>
+  <div align="center"><img src=./Pictrue/IMG_20221104_110917.jpg width=30%></div>
 
   system work on the surrounding， $w\Rightarrow -$
 
-  <div align="center"><img src=./Pictrue/IMG_20221104_110832.jpg width=50%></div>
+  <div align="center"><img src=./Pictrue/IMG_20221104_110832.jpg width=30%></div>
 
   surrounding work on system， $w\Rightarrow +$
 
-  <div align="center"><img src=./Pictrue/IMG_20221104_112428.jpg width=50%></div>
+  <div align="center"><img src=./Pictrue/IMG_20221104_112428.jpg width=30%></div>
 
   $$
   w=|F\times \Delta h|
@@ -290,7 +290,7 @@ $$
 \end{split}
 $$
 
-<div><img src=./Pictrue/螢幕快照_2022-11-25_11-49-21.png></div>
+<div><img src=./Pictrue/螢幕快照_2022-11-25_11-49-21.png width=30%></div>
 
 ---
 
