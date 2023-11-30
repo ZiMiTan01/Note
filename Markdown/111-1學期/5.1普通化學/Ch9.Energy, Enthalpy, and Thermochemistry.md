@@ -1,4 +1,4 @@
-y# Ch9.Energy, Enthalpy, and Thermochemistry
+# Ch9.Energy, Enthalpy, and Thermochemistry
 
 ---
 
