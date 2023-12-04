@@ -1,4 +1,4 @@
-# Atom, Molecules, and Ions
+# Ch2. Atom, Molecules, and Ions
 
 ---
 

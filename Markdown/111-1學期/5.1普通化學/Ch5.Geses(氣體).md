@@ -6,7 +6,7 @@
 
 * In 1643, Torricelli showed that the air in the atmosphere exerts pressure.
   `托里切利表明，大氣中的空氣會施加壓力。`
-* The pressure unit is millmeters of mercury (mm-Hg) is called the "torr" in honor of Torricelli.
+* The pressure unit is millmeters of mercury $(mm-Hg)$ is called the "torr" in honor of Torricelli.
   `壓力單位是毫米汞柱(mm-Hg)被稱為“torr”以紀念托爾切利。`
 
   ![大氣壓力](./Pictrue/2022-10-09-13-26-47.png)
@@ -171,9 +171,11 @@ $$
 * $u_{rms}=\sqrt{\bar{u}^2}:\text{root mean square velocity}$ `均方根速率`
 
 $$
-K_E=N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT \\
-\Rightarrow\bar{u}^2=\frac{3RT}{mN_A} \\
-\Rightarrow u_{rms}=\sqrt{\bar{u}^2}=\sqrt{\frac{3RT}{mN_A}}
+\begin{split}
+  K_E=&N_A(\frac{1}{2}m\bar{u}^2)=\frac{3}{2}RT \\
+  \Rightarrow&\bar{u}^2=\frac{3RT}{mN_A} \\
+  \Rightarrow&u_{rms}=\sqrt{\bar{u}^2}=\sqrt{\frac{3RT}{mN_A}}
+\end{split}
 $$
 
 * $u_{mp}:\text{most probable velocity}$ `最可能速度`
@@ -197,7 +199,7 @@ $$
   `低壓的真實氣體更接近理想氣體`
 
 * 右圖：High Temperature(Temp.) approach to ideal gas.
-  `高壓的真實氣體更接近理想氣體`
+  `高溫的真實氣體更接近理想氣體`
 
 ### 凡得瓦方程式
 

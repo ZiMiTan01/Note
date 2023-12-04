@@ -5,9 +5,12 @@ The state in which the concentrations of all reactants and products remain const
   > remain constant: 不變
 
   $$ H_2O_{(g)}+CO_{(g)}\rightleftharpoons {H_2}_{(g)}+{CO_2}_{(g)} $$
-    ![圖](Pictrue/IMG20221021120032.jpg)
+
+  <div align=center><img src=Pictrue/IMG20221021120032.jpg width=50%></div>
+
 When equilibrium, $$ k=\frac{{[H_2]}{[CO_2]}}{{[H_2O]}{[CO]}} $$
-    > ${[H_2]}, {[CO_2]}, {[H_2O]}, {[CO]} $ indicates the equilibrium position.
+>
+> ${[H_2]}, {[CO_2]}, {[H_2O]}, {[CO]} $ indicates the equilibrium position.
 
 ---
 
@@ -20,27 +23,27 @@ $$
 
 * For n、x
 
-$$
-jA+kB\rightleftharpoons lC+mD \\
-k'=\frac{{[C]}^{nl}{[D]}^{nm}}{{[A]}^{nj}{[B]}^{nk}}
-$$
+  $$
+  jA+kB\rightleftharpoons lC+mD \\
+  k'=\frac{{[C]}^{nl}{[D]}^{nm}}{{[A]}^{nj}{[B]}^{nk}}
+  $$
 
 * For reaction is reversed
 
-$$
-lC+mD\rightleftharpoons jA+kB \\
-k''=\frac{{[A]}^j{[B]}^k}{{[C]}^l{[D]}^m}=\frac{1}{k}
-$$
+  $$
+  lC+mD\rightleftharpoons jA+kB \\
+  k''=\frac{{[A]}^j{[B]}^k}{{[C]}^l{[D]}^m}=\frac{1}{k}
+  $$
 
 * For gas reaction(ideal gas)
 
-$$
-\begin{split}
-  K_p=&\frac{{P_c}^l{P_D}^m}{{P_A}^j{P_B}^k} \\
-  =&\frac{({[C]}RT)^l({[D]}RT)^m}{({[A]}RT)^j({[B]}RT)^k} \\
-  =&k\times(RT)^{[(l+m)-(c+k)]}
-\end{split}
-$$
+  $$
+  \begin{split}
+    K_p=&\frac{{P_c}^l{P_D}^m}{{P_A}^j{P_B}^k} \\
+    =&\frac{({[C]}RT)^l({[D]}RT)^m}{({[A]}RT)^j({[B]}RT)^k} \\
+    =&k\times(RT)^{[(l+m)-(c+k)]}
+  \end{split}
+  $$
   >
   > $P_A, P_B, P_C,P_D$ equilibrium partial pressure
   > $$
@@ -51,10 +54,10 @@ $$
 
 * For Real gas
 
-$$
-K_p=\frac{{(a_c)}^l{(a_D)}^m}{{(a_n)}^j{(a_B)}^k} \\
-a=Activity=\frac{P_i}{P_{reference}}
-$$
+  $$
+  K_p=\frac{{(a_c)}^l{(a_D)}^m}{{(a_n)}^j{(a_B)}^k} \\
+  a=Activity=\frac{P_i}{P_{reference}}
+  $$
   >
   > $ P_i $ is partial pressure of $i^{th}$ gaseons compoment
   > $ P_{reference} $ is $1 atm$ ideal gas
@@ -63,9 +66,10 @@ $$
   Many equilibrium involve more them one phese are called.
 
   $$
-  CaCO_{3(s)}\rightleftharpoons CaO_{(s)}+CO_{2(g)} \\
-  k=\frac{{[CO_2]}{[CaO]}}{[CaCO_3]}={[CO_2]}
+  CaCO_{3(s)}\rightleftharpoons CaO_{(s)}+CO_{2(g)}
   $$
+
+  $$k=\frac{{[CO_2]}{[CaO]}}{[CaCO_3]}={[CO_2]}$$
 <!-- 待補 -->
 
 ---
