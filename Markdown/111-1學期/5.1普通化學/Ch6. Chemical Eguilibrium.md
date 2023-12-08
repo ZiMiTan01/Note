@@ -21,18 +21,18 @@ jA+kB\rightleftharpoons lC+mD \\
 k=\frac{{[C]}^l{[D]}^m}{{[A]}^j{[B]}^k}
 $$
 
-* For n、x
-
-  $$
-  jA+kB\rightleftharpoons lC+mD \\
-  k'=\frac{{[C]}^{nl}{[D]}^{nm}}{{[A]}^{nj}{[B]}^{nk}}
-  $$
-
-* For reaction is reversed
+* If reaction is reversed, then:
 
   $$
   lC+mD\rightleftharpoons jA+kB \\
-  k''=\frac{{[A]}^j{[B]}^k}{{[C]}^l{[D]}^m}=\frac{1}{k}
+  k'=\frac{{[A]}^j{[B]}^k}{{[C]}^l{[D]}^m}=\frac{1}{k}
+  $$
+
+* For n、x
+
+  $$
+  njA+nkB\rightleftharpoons nlC+nmD \\
+  k''=\frac{{[C]}^{nl}{[D]}^{nm}}{{[A]}^{nj}{[B]}^{nk}}=K^n
   $$
 
 * For gas reaction(ideal gas)
@@ -70,7 +70,6 @@ $$
   $$
 
   $$k=\frac{{[CO_2]}{[CaO]}}{[CaCO_3]}={[CO_2]}$$
-<!-- 待補 -->
 
 ---
 
@@ -106,4 +105,5 @@ $$
 \therefore CaCO_3 \text{ should be decomposed} \\
 CaCO_3=0.132(mol)\times 100.09(\frac{g}{mol})=13.2(g) \\
 $$
+
 $$ \therefore \frac{13.2(g)}{20(g)}\times 100％=66％ $$

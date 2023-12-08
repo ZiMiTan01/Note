@@ -282,14 +282,6 @@ $$
 $\text{specific heat capacity}=\text{heat capacity per gram of substance}({J}/{^{\circ}C\times g})$
 $\text{wolar heat capacity}=\text{heat capacity per mole of substance}(J/^{\circ}C\times mol)$
 
-$$
-\begin{split}
-  q_p=&4.18(\frac{J}{^{\circ}C \times g})\times (27.4-25)\times 1050 \\
-  =&10533.6J=10.53kJ \\
-  =&\Delta H
-\end{split}
-$$
-
 <div><img src=./Pictrue/螢幕快照_2022-11-25_11-49-21.png width=30%></div>
 
 ---
@@ -301,8 +293,16 @@ $$ NaOH_{(s)}\to NaOH_{(aq)} \quad \Delta H=? $$
 If 10g solid $NaOH$ powers is added to $1L$ $H_2O$ $(C=4.18 \frac{J}{^{\circ}C \times g})$ at $25^{\circ}$ in a constant pressure calorimetry, What will br enthalpy change of $NaOH$ per mole?
 $(\text{final solution density}=1.05\frac{g}{mL})$
 
-$\text{solution mass}=1 L \times 1050\frac{g}{L}=1050g$
-For $NaOH=\frac{10}{40}g=0.25mole$
+$\text{solution mass}=1 L \times 1050\dfrac{g}{L}=1050g$
+For $NaOH=\dfrac{10}{40}g=0.25mole$
+
+$$
+\begin{split}
+  \therefore q_p=&4.18(\frac{J}{^{\circ}C \times g})\times (27.4-25)\times 1050 \\
+  =&10533.6J=10.53kJ \\
+  =&\Delta H
+\end{split}
+$$
 
 $$
 \therefore \Delta H=\frac{10.53 kJ}{0.25mole}=42.1\frac{kJ}{mol}
