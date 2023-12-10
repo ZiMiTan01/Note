@@ -58,9 +58,11 @@ $$ Na\to Na^++e^- $$ $$ Cl+e^-\to Cl^- $$
     1. The cation is always named first, and the anion second.
         `陽離子永遠是第一個被命名的，再來是陰離子`
 
-    2. A ==monatomic== cation takes its name form the name of the element.<!-- Monatomic由 Mono+Atomic 組成，其中 mono 表"單一個"， atomic 表"原子的" -->
-    `單原子陽離子的命名與其元素名稱一致`
-        >Ex: $Na^+$ is sodium
+    2. A ==monatomic== cation takes its name form the name of the element.
+        `單原子陽離子的命名與其元素名稱一致`
+        > Monatomic由 Mono+Atomic 組成，其中 mono 表"單一個"， atomic 表"原子的"
+
+        > Ex: $Na^+$ is sodium
     3. A monatomic anion is named by taking the first part of the element name and adding "ide"
     `單原子陰離子是由其元素名稱去掉字尾並添加-ide來命名`
         >Ex: $Cl^-$ is Chloride. but $Cl$ is Chlorine
