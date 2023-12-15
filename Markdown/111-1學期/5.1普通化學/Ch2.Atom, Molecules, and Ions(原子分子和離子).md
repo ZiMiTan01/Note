@@ -2,6 +2,81 @@
 
 ---
 
+## The Atomic Theory
+
+### The law of multiple proportions
+
+when two elements form a series of compounds, the ratios of the masses of the second element that combine with a gram of the first element can always be reduced to small whole numbers.
+
+* Exemple:
+
+  $$\begin{array}{cc}
+    \text{compd} & \text{Mass of Nitrogen} \\
+    &\quad \text{That Combines with } 1g \text{ of Oxygen} \\
+    \hline
+    \text{Compound A} & 1.750g \\
+    \text{Compound B} & 0.875g
+  \end{array}$$
+
+  $$\frac{A}{B}=\frac{2N}{1N}$$
+
+### Dalton's Atomic Theory
+
+* Dalton's model
+  1. Each element is made up of tiny particles called atoms.
+  2. The atoms of a given element are identical.
+  3. Chemical compounds are formed when atoms combine with each other.
+  4. Chemical reaction involve reorganization of the atoms-changes in the way they are bound together. The atoms themselves are not changed in a chemical reaction.
+
+### Joseph Gay-Lussac(1778~1850)
+
+In the same pressure and Temperature
+
+$$2L\text{ of }H_2+1L\text{ of }O_2\to 2L\text{ of }H_2O$$
+
+### Avogadro's hypothesis
+
+At the same temperature. and pressure, equal volumes of different gases contain the same number of particles.
+> If Avogadro is right, Gay-Lussac will be:
+>
+> $$2H_2+O_2\to 2H_2O$$
+
+### Cannizzaro's interpretation
+
+1. Componds contained whole numbers of atoms as Dalton postulated.
+2. Avogadro's hypothesis was corrent equal volume of gases under the same conditions the same number of molecules.
+3. Relative molecular mass of hydrogen $(H_2)$ is 2
+
+   $$\therefore \frac{O_2}{H_2}=\frac{16}{1}=\frac{32}{2}$$
+
+#### Exemple
+
+Carbon dioxygen have $27\%$ of Carbon.
+
+$$
+\begin{cases}
+  C: 44\times 0.27=12 \\
+  O: 44-12=32 \\
+\end{cases} \Rightarrow CO_2
+$$
+
+#### Exemple
+
+Methane have $75\%$ of Carbon, relative $\text{Molecule mass}=16g$
+
+$$
+\begin{cases}
+  C: 16\times 0.75=12 \\
+  H: 16-12=4 \\
+\end{cases}\Rightarrow CH_4
+$$
+
+## Atomic experiments
+
+### The Electron
+
+* J.J Thomson's experiment
+
 ## 原子(Atom)
 
 * 概論

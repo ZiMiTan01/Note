@@ -391,7 +391,7 @@ $$
 
 * For $\text{Pathway-One}$
 
-  * $\begin{cases} P_A=&3atm \\ V_A=&15L \\ \end{cases} \quad \to \quad \begin{cases} P_C=&3atm \\ V_C=&55L \\ \end{cases}$
+  * $\begin{cases} P_A=&3atm \\ V_A=&15L \\ \end{cases} \quad \to \quad \begin{cases} P_C=&3atm \\ V_C=&55L \\ \end{cases}$ (Step-1)
 
     $$
     \begin{split}
@@ -410,16 +410,43 @@ $$
 
     $$\therefore \Delta E=q_p+W=18.2kJ$$
 
-  * $\begin{cases} P_D=&6atm \\ V_D=&15L \\ \end{cases} \quad \to \quad \begin{cases} P_B=&6atm \\ V_B=&20L \\ \end{cases}$
+  * $\begin{cases} P_D=&6atm \\ V_D=&15L \\ \end{cases} \quad \to \quad \begin{cases} P_B=&6atm \\ V_B=&20L \\ \end{cases}$ (Setp-2)
 
     $$
     \begin{split}
       \Delta E=&nC_v \Delta T=\frac{3}{2}\Delta (PV)=\frac{3}{2}(120-165) \\
-      =&-67.5atm\cdot L=-6.8kJ
+      =&-67.5atm\cdot L=-6.8kJ \\
+      \Delta H=&nC_p \Delta T=\frac{5}{2}\Delta (PV) \\
+      =&-113atm\cdot L=-11kJ \\
+      W=&-P_{ext}\Delta V=-6(20-55) \\
+      =&210atm\cdot L=21.3kJ \\
+      \end{split}
+    $$
+
+    $$
+    \begin{split}
+      \therefore q=&\Delta E-W=-6.8-21.3=-28.1kJ
     \end{split}
     $$
 
-    $$\Delta H=$$
+  * Summary
+    * Pathway-One
+
+      | Path-One   | Step 1  | Step 2  | Total $(kJ)$ |
+      | ---------- | ------- | ------- | ------------ |
+      | $q$        | $30.4$  | $-28.1$ | $2.3$        |
+      | $W$        | $-12.2$ | $21.3$  | $9.1$        |
+      | $\Delta E$ | $18.2$  | $-6.8$  | $11.4$       |
+      | $\Delta H$ | $30.4$  | $-11$   | $19$         |
+
+    * Pathway-Two
+
+      | Path-Two   | Step-3 | Step-4 | Total $(kJ)$ |
+      | ---------- | ------ | ------ | ------------ |
+      | $q$        | $6.84$   | $7.6$    | $14.4$         |
+      | $W$        | $0$      | $-3$     | $-3$           |
+      | $\Delta E$ | $6.84$   | $4.6$    | $11.4$         |
+      | $\Delta H$ | $11.4$   | $7.6$    | $19$           |
 
 ---
 
@@ -474,3 +501,29 @@ $$\Delta H\degree_{reaction}=\sum n_p \Delta H_f\degree-\sum n_r \Delta H_f\degr
 
 > $n_p$ : products
 > $n_r$ : reactants
+
+### 例題
+
+Calculate $\Delta H\degree$ for following reaction.
+
+$$2C_3H_{6(g)}+9O_{2(g)}\to 6CO_{2(g)}+6H_2O_{(l)}$$
+
+* Answer
+
+  $$
+  \begin{split}
+    \sum n_p\Delta H_f\degree=&6\times \Delta H^\degree_{f\cdot H_2O_{(l)}}+6\times \Delta H^\degree_{f\cdot CO_{2(g)}} \\
+    =&6\times (-286)+6\times (-393.5) \\
+    =&-4077kJ
+  \end{split}
+  $$
+
+  $$
+  \begin{split}
+    \sum n_r\Delta H_f\degree=&2\times \Delta H^\degree_{f\cdot C_3H_{6(g)}}+9\times \Delta H^\degree_{f\cdot O_{2(g)}} \\
+    =&2\times 20.9+9\times 0 \\
+    =&41.8kJ
+  \end{split}
+  $$
+
+  $$\therefore \Delta H\degree =-4077-41.8=-4119kJ$$
