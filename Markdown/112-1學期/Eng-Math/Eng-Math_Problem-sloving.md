@@ -1,8 +1,13 @@
+---
+ebook:
+  theme: github-light.css
+  title: Markdown Preview Enhanced
+  author: ZiMiTan01
+---
+
 # Eng-Math Problem sloving
 
 [Google cloud](https://docs.google.com/spreadsheets/d/1e7VhORP6TJtrhDoMHTnVzFFICNd59LOWwjWLLnzIib8/edit?usp=sharing)
-
-[Youtube Video]()
 
 ---
 
@@ -58,14 +63,14 @@
 
         $$y_2=\int \frac{1}{y^{2}}e^{-\int pdx}dx$$
 
-         $$\therefore y=c_1y_1+c_2 \int \frac{1}{y^{2}}e^{-\int pdx}dx$$
+        $$\therefore y=c_1y_1+c_2 \int \frac{1}{y^{2}}e^{-\int pdx}dx$$
 
      * Euler-Cauchy Equation $(x^2 y''+axy'+by=0)$
 
        $$
        \begin{split}
-        let\quad &y=x^m, y'=mx^{m-1}, y''=m(m-1)x^{m-2} \\
-        &\Rightarrow [m(m-1)+am+b]x^m =0 ,\quad m = \frac{(1-a) \pm \sqrt{(1-a)^{2}-4ac}}{2} \\
+       let\quad &y=x^m, y'=mx^{m-1}, y''=m(m-1)x^{m-2} \\
+       &\Rightarrow [m(m-1)+am+b]x^m =0 ,\quad m = \frac{(1-a) \pm \sqrt{(1-a)^{2}-4ac}}{2} \\
        \end{split}
        $$
 
@@ -102,7 +107,8 @@
          $$
 
        * Modification rule
-         假設的　 有出現和　 一樣的函數，則我們假設的函數要再乘  or　 倍
+         假設的 $y_p$ 有出現和 $y_h$ 一樣的函數，則我們假設的函數要再乘 $x$ or $x^2$ 倍
+
        * Sum rule
          $r(x)$ 有什麼函數， $y_p$ 就有什麼函數
 
