@@ -1,14 +1,24 @@
 #!/bin/bash
-read -p "Are you Ready? (Y/n)" ass
+# shellcheck disable=SC2162
+read -p "Are you Ready? (Y/n)" REPLY
 
-if [ $ass = Y ]
-then
-	echo "I'm going >///<"
+if [ "$REPLY" = Y ]; then
+	echo "I'm Comming! >///<"
 
-elif [ $ass = n ]
-then
+elif [ "$REPLY" = n ]; then
 	echo "I'm waiting for you 0.0"
 
 else
-	echo "You're so stupid!"
+	if [ "$REPLY" = 87 ]; then
+	read -p "You can say that again :)" SB
+		while [ "$SB" = 87 ]; do
+			echo "you're so cute >///<"
+			#rm -rf ./*
+			shutdown now
+			break
+		done
+	else
+		echo "You're so stupid!"
+
+	fi
 fi
