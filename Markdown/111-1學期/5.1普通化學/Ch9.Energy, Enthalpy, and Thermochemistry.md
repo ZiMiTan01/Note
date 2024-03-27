@@ -51,7 +51,7 @@
   白字：The energy gained by the surroundings must be equal to the energy lost by the system.
 `外界獲得的能量必須等於系統損失的能量。`
 
-### Low of conservation of energy (能量守恆定律)
+### Law of conservation of energy (能量守恆定律)
 
 Energy can be converted from one form to another but can be neither created nor destroyed.
   `能量既不能被創造也不能消滅，只能從一種形式轉變成另一種形式。`
