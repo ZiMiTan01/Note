@@ -25,7 +25,7 @@ when two elements form a series of compounds, the ratios of the masses of the se
 * Dalton's model
   1. Each element is made up of tiny particles called atoms.
   2. The atoms of a given element are identical.
-  3. Chemical compounds are formed when atoms combine with each other.
+  3. Chemical compounds are formed when atoms combine with each other. A given compd always has the Same relative numbers and types of atoms.
   4. Chemical reaction involve reorganization of the atoms-changes in the way they are bound together. The atoms themselves are not changed in a chemical reaction.
 
 ### Joseph Gay-Lussac(1778~1850)
