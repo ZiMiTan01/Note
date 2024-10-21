@@ -76,6 +76,13 @@ $$
 ### The Electron
 
 * J.J Thomson's experiment
+  Thomson find when high voltage was applied to the table, a stream of negatively charged pawicles called "Electron" was produced.
+  Thoson determined the charge to mass ratio of an electron 
+  
+  $$\frac{e}{m}=-1.76\times 10^5 \frac{C}{g}$$
+
+  He postulated that an atom consisted of a diffuse clound of positive charge with negative electrons embeded randomly in it.
+  <div align=center><img src=.\Pictrue\Screenshot_2024-10-22-00-33-11-53_99c04817c0de5652397fc8b56c3b3817.jpg alt=\ width=40%>
 
 ## 原子(Atom)
 
